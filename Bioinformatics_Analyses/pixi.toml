@@ -1,0 +1,15 @@
+[workspace]
+authors = ["Leighton Payne <leightonpayne98@gmail.com>"]
+channels = ["conda-forge", "bioconda"]
+name = "ta_on_plasmids"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+duckdb = ">=1.4.3,<2"
+seqkit = ">=2.12.0,<3"
+prodigal = ">=2.6.3,<3"
+parallel = ">=20251122,<20251123"
+blast = ">=2.16.0,<3"
