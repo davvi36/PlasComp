@@ -1,0 +1,537 @@
+type	validation	id	related_mge	organism	genome_accession	toxin	antitoxin	family
+I	experimental	TA006322	Prophage	Bacillus subtilis subsp. subtilis str. 168 (chromosome)	NC_000964	BSU26050 (txpA)	BSU_misc_RNA_81 (ratA)	txpA-ratA/-
+I	experimental	TA006323	Prophage	Bacillus subtilis subsp. subtilis str. 168 (chromosome)	NC_000964	BSU21000 (yonT)	BSU_misc_RNA_90 (SR6)	yonT-SR6/-
+I	experimental	TA006321	Prophage	Bacillus subtilis subsp. subtilis str. 168 (chromosome)	NC_000964	BSU21546 (bsrG)	BSU_misc_RNA_77 (as-bsrG)	bsrG-as-bsrG/-
+I	experimental	TA06323b	Prophage	Bacillus subtilis subsp. subtilis str. 168 (chromosome)	NC_000964	BSU_20999 (yoyJ)	-	yoyJ-SR6/-
+I	experimental	TA010200	Prophage	Bacillus subtilis subsp. subtilis str. 168 (chromosome)	NC_000964	BSU_18978 (bsrE)	- (as-bsrE)	bsrE-as-bsrE/-
+I	experimental	TA010201	Prophage	Bacillus subtilis subsp. subtilis str. 168 (chromosome)	NC_000964	BSU_26055 (bsrH)	- (as-bsrH)	bsrH-as-bsrH/-
+I	experimental	TA006287	Plasmid	Campylobacter jejuni subsp. jejuni 81-176 (plasmid pVir)	NC_008770	CJJ81176_pVir0047 (cjpT)	CJJ81176_pVir0047a (cjrA)	cjpT-cjrA/-
+I	experimental	TA010173	Prophage	Clostridium difficile 630 (chromosome)	NC_009089	CD630_RS19695 (CD0956.2)	- (RCd10)	CD-RCd/-
+I	experimental	TA010172	Prophage	Clostridium difficile 630 (chromosome)	NC_009089	CD630_RS19840 (CD2907.1)	- (RCD6)	CD-RCd/-
+I	experimental	TA010174	-	Clostridium difficile 630 (chromosome)	NC_009089	CD630_RS19720 (CD1418.2)	- (CD630_n00500)	CD-RCd/-
+I	experimental	TA010175	-	Clostridium difficile 630 (chromosome)	NC_009089	- (CD1161.1)	- (SQ736)	CD-RCd/-
+I	experimental	TA010171	-	Clostridium difficile 630 (chromosome)	NC_009089	CD630_RS19820 (CD2517.1)	- (RCD5)	CD-RCd/-
+I	experimental	TA010080	Prophage	Clostridium difficile 630 (chromosome)	NC_009089	CD630_RS19700 (CD0977.1)	- (RCD7)	CD-RCd/-
+I	experimental	TA010081	Prophage	Clostridium difficile 630 (chromosome)	NC_009089	CD630_RS19835 (CD2889)	- (RCd12)	CD-RCd/-
+I	experimental	TA010176	Prophage	Clostridium difficile 630 (chromosome)	NC_009089	CD630_RS19805 (CD2299.1)	- (SQ1569)	CD-RCd/-
+I	experimental	TA010082	Prophage	Clostridium difficile 630 (chromosome)	NC_009089	- (CD832.1)	- (RCD8)	CD-RCd/-
+I	experimental	TA010083	Prophage	Clostridium difficile 630 (chromosome)	NC_009089	- (CD884.3)	- (RCD9)	CD-RCd/-
+I	experimental	TA010084	Prophage	Clostridium difficile 630 (chromosome)	NC_009089	- (CD2835.2)	- (RCd15)	CD-RCd/-
+I	experimental	TA010211	IS/Tn	E.coli NADPH-sulfite reductase flavoprotein component (cysJ) NADPH-sulfite reductase hemoprotein component (cysI) and 3' (chromosome)	M23008	- (hokX)	- (sokX)	hok-sok/-
+I	experimental	TA006359	Plasmid	Enterococcus faecalis (plasmid pAD1)	NG_034485	Fst (fst)	RNAII (RNAII)	fst-RNAII/-
+I	experimental	TA010204	-	Enterococcus faecalis V583 (chromosome)	NC_004668	EF_RS16860 (txpA)	- (ratA)	txpA-ratA/-
+I	experimental	TA010028	Plasmid	Enterococcus faecalis V583 (plasmid pTEF2)	NC_004671	EF_RS16055 (fst)	(RNAII)	fst-RNAII/-
+I	experimental	TA010029	-	Enterococcus faecalis V583 (chromosome)	NC_004668	EF_RS02030 (fst)	(RNAII)	fst-RNAII/-
+I	experimental	TA006278	-	Enterococcus faecalis V583 (chromosome)	NC_004668	EF_3263 (txpA)	EF_3263a (ratA)	txpA-ratA/-
+I	experimental	TA010202	-	Enterococcus faecalis V583 (chromosome)	NC_004668	EF_RS14625 (txpA)	- (ratA)	txpA-ratA/-
+I	experimental	TA010203	-	Enterococcus faecalis V583 (chromosome)	NC_004668	EF_RS14630 (txpA)	- (ratA)	txpA-ratA/-
+I	experimental	TA010207	Plasmid	Enterococcus faecalis V583 (plasmid pTEF1)	NC_004669	EF_RS16890 (txpA)	- (ratA)	txpA-ratA/-
+I	experimental	TA010206	-	Enterococcus faecalis V583 (chromosome)	NC_004668	EF_RS16775 (txpA)	- (ratA)	txpA-ratA/-
+I	experimental	TA010205	-	Enterococcus faecalis V583 (chromosome)	NC_004668	EF_RS15355 (txpA)	- (ratA)	txpA-ratA/-
+I	experimental	TA010124	-	Erwinia amylovora ATCC 49946 (chromosome)	NC_013971	EAM_RS19805 (hok)	- (sok)	hok-sok/-
+I	experimental	TA006370	Plasmid	Escherichia coli (plasmid pIFM3804)	NC_023329	D616_p112058 (pndA)	D616_s112002 (pndB)	hok-sok/-
+I	experimental	TA006324	Plasmid	Escherichia coli (plasmid R1)	NG_034386	hok (hok)	sok (sok)	hok-sok/-
+I	experimental	TA006349	-	Escherichia coli BW2952 (chromosome)	NC_012759	BWG_3365 (tisB)	BWG_4258 (istR)	tisB-istR/-
+I	experimental	TA006351	GI	Escherichia coli BW2952 (chromosome)	NC_012759	BWG_4040 (symE)	BWG_4265 (symR)	symER/-
+I	experimental	TA010208	-	Escherichia coli C (chromosome)	NZ_CP020543	B6N50_RS01665 (hokA)	- (sokA)	hok-sok/-
+I	experimental	TA006369	Plasmid	Escherichia coli K-12 (plasmid F)	NC_002483	D616_p97086 (srnB)	D616_s97001 (srnC)	hok-sok/-
+I	experimental	TA006346	-	Escherichia coli K-12 strain ER3413 (chromosome)	CP009789	ER3413_1231 (rdlD)	ER3413_4643 (rdlD)	ldrD-rdlD/-
+I	experimental	TA006348	IS/Tn	Escherichia coli K-12 strain ER3413 (chromosome)	CP009789	ER3413_3639 (ldrD)	ER3413_4669 (rdlD)	ldrD-rdlD/-
+I	experimental	TA006347	-	Escherichia coli K-12 strain ER3413 (chromosome)	CP009789	ER3413_1232 (ldrD)	ER3413_4644 (rdlD)	ldrD-rdlD/-
+I	experimental	TA006345	-	Escherichia coli K-12 strain ER3413 (chromosome)	CP009789	ER3413_1230 (ldrD)	ER3413_4642 (rdlD)	ldrD-rdlD/-
+I	experimental	TA010218	Prophage	Escherichia coli O157:H7 str. EDL933 (chromosome)	NC_002655	Z_RS11255 (ralR)	- (ralA)	ralRA/-
+I	experimental	TA006361	-	Escherichia coli O157:H7 str. EDL933 (chromosome)	NC_002655	Z3289 (ZorO)	orzO (OrzO)	Zor-Orz/-
+I	experimental	TA010213	-	Escherichia coli O157:H7 str. EDL933 (chromosome)	NC_002655	- (zorP)	- (orzP)	Zor-Orz/-
+I	experimental	TA010219	Prophage	Escherichia coli O157:H7 str. Sakai (chromosome)	NC_002695	- (ralR)	- (ralA)	ralRA/-
+I	experimental	TA010039	Prophage	Escherichia coli O157:H7 str. Sakai (chromosome)	NC_002695	- (hokW)	- (sokW)	hok-sok/-
+I	experimental	TA010209	-	Escherichia coli strain ECOR24 (chromosome)	NZ_LYAM01000110	A8F87_RS08540 (hokC)	- (sokC)	hok-sok/-
+I	experimental	TA006333	-	Escherichia coli str. K-12 substr. DH10B (chromosome)	NC_010473	ECDH10B_1269 (ldrD)	ECDH10B_1270 (rdlD)	ldrD-rdlD/-
+I	experimental	TA006334	-	Escherichia coli str. K-12 substr. DH10B (chromosome)	NC_010473	ECDH10B_1271 (ldrD)	ECDH10B_1272 (rdlD)	ldrD-rdlD/-
+I	experimental	TA006335	-	Escherichia coli str. K-12 substr. DH10B (chromosome)	NC_010473	ECDH10B_1273 (ldrD)	ECDH10B_1274 (rdlD)	ldrD-rdlD/-
+I	experimental	TA006336	-	Escherichia coli str. K-12 substr. DH10B (chromosome)	NC_010473	ECDH10B_3716 (ldrD)	ECDH10B_3717 (rdlD)	ldrD-rdlD/-
+I	experimental	TA006326	-	Escherichia coli str. K-12 substr. MC4100 (chromosome)	HG738867	BN896_1042 (ldrD)	BN896_4217 (rdlD)	ldrD-rdlD/-
+I	experimental	TA006325	-	Escherichia coli str. K-12 substr. MC4100 (chromosome)	HG738867	BN896_1041 (ldrD)	BN896_4216 (rdlD)	ldrD-rdlD/-
+I	experimental	TA006327	-	Escherichia coli str. K-12 substr. MC4100 (chromosome)	HG738867	BN896_1043 (ldrD)	BN896_4218 (rdlD)	ldrD-rdlD/-
+I	experimental	TA006328	-	Escherichia coli str. K-12 substr. MC4100 (chromosome)	HG738867	BN896_3227 (ldrD)	BN896_4257 (rdlD)	ldrD-rdlD/-
+I	experimental	TA006338	-	Escherichia coli str. K-12 substr. MDS42 (chromosome)	NC_020518	ECMDS42_1005 (ldrD)	ECMDS42_1006 (rdlD)	ldrD-rdlD/-
+I	experimental	TA006339	-	Escherichia coli str. K-12 substr. MDS42 (chromosome)	NC_020518	ECMDS42_1007 (ldrD)	ECMDS42_1008 (rdlD)	ldrD-rdlD/-
+I	experimental	TA006340	-	Escherichia coli str. K-12 substr. MDS42 (chromosome)	NC_020518	ECMDS42_2974 (ldrD)	ECMDS42_2975 (rdlD)	ldrD-rdlD/-
+I	experimental	TA006337	-	Escherichia coli str. K-12 substr. MDS42 (chromosome)	NC_020518	ECMDS42_1003 (ldrD)	ECMDS42_1004 (rdlD)	ldrD-rdlD/-
+I	experimental	TA006364	IS/Tn	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b4613 (dinQ)	(agrB)	dinQ-agrB/-
+I	experimental	TA010087	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b4812 (timP)	- (timR)	timP-timR/-
+I	experimental	TA006350	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b4618 (tisB)	b4616 (istR)	tisB-istR/-
+I	experimental	TA006332	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b4453 (ldrD)	b4454 (rdlD)	ldrD-rdlD/-
+I	experimental	TA006331	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b4423 (ldrD)	b4424 (rdlD)	ldrD-rdlD/-
+I	experimental	TA006352	GI	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b4347 (symE)	b4625 (symR)	symER/-
+I	experimental	TA006353	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b4667 (ibs)	b4436 (sib)	ibs-sib/-
+I	experimental	TA006354	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b4668 (ibs)	b4437 (sib)	ibs-sib/-
+I	experimental	TA006355	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b4665 (ibs)	b4446 (sib)	ibs-sib/-
+I	experimental	TA006356	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b4664 (ibs)	b4447 (sib)	ibs-sib/-
+I	experimental	TA006357	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b4666 (ibs)	b4611 (sib)	ibs-sib/-
+I	experimental	TA006358	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b4687 (shoB)	b4608 (ohsC)	shoB-ohsC/-
+I	experimental	TA006330	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b4421 (ldrD)	b4422 (rdlD)	ldrD-rdlD/-
+I	experimental	TA006362	Prophage	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b1348 (ralR)	b4714 (ralA)	ralRA/-
+I	experimental	TA006329	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b4419 (ldrD)	b4420 (rdlD)	ldrD-rdlD/-
+I	experimental	TA006343	-	Escherichia coli str. K-12 substr. W3110 (chromosome)	NC_007779	Y75_p1190 (ldrD)	Y75_s0010 (rdlD)	ldrD-rdlD/-
+I	experimental	TA010212	-	Escherichia coli str. K-12 substr. W3110 (chromosome)	NC_007779	Y75_RS13405 (shoB)	- (ohsC)	shoB-ohsC/-
+I	experimental	TA006344	-	Escherichia coli str. K-12 substr. W3110 (chromosome)	NC_007779	Y75_p3638 (ldrD)	Y75_s0046 (rdlD)	ldrD-rdlD/-
+I	experimental	TA006342	-	Escherichia coli str. K-12 substr. W3110 (chromosome)	NC_007779	Y75_p1189 (ldrD)	Y75_s0009 (rdlD)	ldrD-rdlD/-
+I	experimental	TA006341	-	Escherichia coli str. K-12 substr. W3110 (chromosome)	NC_007779	Y75_p1188 (ldrD)	Y75_s0008 (rdlD)	ldrD-rdlD/-
+I	experimental	TA010210	-	Hafnia alvei (chromosome)	X03774	- (hokH)	- (sokH)	hok-sok/-
+I	experimental	TA010214	-	Helicobacter pylori 26695 (chromosome)	NC_000915	- (AapC)	- (IsoC)	AapC-IsoC/-
+I	experimental	TA010113	-	Helicobacter pylori 26695 (chromosome)	NC_000915	- (AapA3)	- (IsoA3)	aapA-IsoA/-
+I	experimental	TA010085	-	Helicobacter pylori 26695 (chromosome)	NC_000915	- (AapA1)	- (IsoA1)	aapA-IsoA/-
+I	experimental	TA010217	-	Helicobacter pylori 26695 (chromosome)	NC_000915	- (AapB)	- (IsoB)	AapB-IsoB/-
+I	experimental	TA010216	-	Helicobacter pylori 26695 (chromosome)	NC_000915	- (AapD)	- (IsoD)	AapD-IsoD/-
+I	experimental	TA010215	ICE	Helicobacter pylori 26695 (chromosome)	NC_000915	- (AapC)	- (IsoC)	AapC-IsoC/-
+I	experimental	TA010086	-	Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344	NC_016810	SL1344_RS27845 (timP)	- (timR)	timP-timR/-
+I	experimental	TA010103	GI IS/Tn	Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344	NC_016810	- (IasE)	- (IsrA)	IasE-IsrA/-
+I	experimental	TA010147	-	Staphylococcus aureus strain HG003 isolate RN1 Scaffold_3 (chromosome)	NZ_JPPU01000003	- (SprG3)	- (SprF3)	sprG-sprF/-
+I	experimental	TA010146	Prophage	Staphylococcus aureus strain HG003 isolate RN1 Scaffold_5 (chromosome)	NZ_JPPU01000005	- (SprG1)	- (SprF1)	sprG-sprF/-
+I	experimental	TA010049	-	Staphylococcus aureus strain HG003 isolate RN1 Scaffold_9 (chromosome)	NZ_JPPU01000009	- (SprG2)	- (SprF2)	sprG-sprF/-
+I	experimental	TA010148	-	Staphylococcus aureus strain HG003 isolate RN1 Scaffold_9 (chromosome)	NZ_JPPU01000009	- (SprG4)	- (SprF4)	sprG-sprF/-
+I	experimental	TA010154	Prophage	Staphylococcus aureus subsp. aureus MW2 (chromosome)	NC_003923	MW_RS14845 (txpA)	-	higBA (relBE)/-
+I	experimental	TA010155	-	Staphylococcus aureus subsp. aureus MW2 (chromosome)	NC_003923	- (fst)	-	higBA (relBE)/-
+I	experimental	TA010156	Prophage	Staphylococcus aureus subsp. aureus MW2 (chromosome)	NC_003923	MW_RS07425 (holin)	-	higBA (relBE)/-
+I	experimental	TA010107	Prophage	Staphylococcus aureus subsp. aureus MW2 (chromosome)	NC_003923	MW_RS07680 (MW1434)	MW_RS07675 (MW1433)	TMCS/-
+I	experimental	TA010025	-	Staphylococcus aureus subsp. aureus N315 (chromosome)	NC_002745	SprG2 (SprG)	(SprF)	sprG-sprF/-
+I	experimental	TA010026	-	Staphylococcus aureus subsp. aureus N315 (chromosome)	NC_002745	SprG3 (SprG)	(SprF)	sprG-sprF/-
+I	experimental	TA010027	-	Staphylococcus aureus subsp. aureus N315 (chromosome)	NC_002745	SprG4 (SprG)	(SprF)	sprG-sprF/-
+I	experimental	TA006360	Prophage	Staphylococcus aureus subsp. aureus N315 (chromosome)	NC_002745	SAS059 (SprG)	SprF (SprF)	sprG-sprF/-
+I	experimental	TA010149	-	Staphylococcus aureus subsp. aureus str. Newman (chromosome)	NC_009641	- (SprA2)	- (SprA2AS)	SprA2-SprA2AS/-
+I	experimental	TA010024	Prophage	Staphylococcus aureus subsp. aureus str. Newman (chromosome)	NC_009641	NWMN_RS15745 (sprA1)	(sprA1AS)	sprA1-sprA1AS/-
+I	experimental	TA006363	Plasmid	uncultured bacterium (plasmid pRSB225)	NC_025100	pRSB225_34 (hok)	pRSB225_32 (sok)	hok-sok/-
+II	experimental	TA010134	GI	Acetobacter pasteurianus strain Ab3 (chromosome)	CP012111	DB34_01190 (NpoT)	DB34_01195 (NpoA)	NpoTA/-
+II	experimental	TA010132	-	Acetobacter pasteurianus strain Ab3 (chromosome)	CP012111	DB34_03210 (hicA)	DB34_03205 (hicB)	hicAB/-
+II	experimental	TA010133	-	Acetobacter pasteurianus strain Ab3 (chromosome)	CP012111	DB34_04120 (higB)	DB34_04125 (higA)	higBA (relBE)/-
+II	experimental	TA001729	Plasmid	Acidithiobacillus caldus (plasmid pTC-F14)	NC_004734	HKK01_RS00040 (pasB)	HKK01_RS00035 (pasA)	pasABC/-
+II	experimental	TA003306	ICE	Acidovorax citrulli AAC00-1 (chromosome)	NC_008752	Aave_0580 (vapC)	Aave_0579 (vapB)	vapBC/AbrB-PIN
+II	experimental	TA010169	Plasmid	Acinetobacter baumannii (plasmid pAB120)	NC_019359	HPE87_RS00025 (higB)	HPE87_RS00030 (higA)	higBA (relBE)/-
+II	experimental	TA006081	Plasmid	Acinetobacter baumannii (plasmid AbATCC223)	KJ534568	Locus_2 (AbkB)	Locus_1 (AbkA)	AbkAB/BrnT(toxin)
+II	experimental	TA006082	Plasmid	Acinetobacter baumannii (plasmid AbATCC329)	KJ534569	Locus_2 (AbkB)	Locus_1 (AbkA)	AbkAB/BrnT(toxin)
+II	experimental	TA003593	Prophage	Acinetobacter baumannii ATCC 17978 (chromosome)	NC_009085	A1S_2020 (hicA)	A1S_2019 (hicB)	hicAB/HicB-HicA
+II	experimental	TA010188	Plasmid	Acinetobacter baumannii strain ORAB01 (plasmid pORAB01-3)	NZ_CP015486	SG90_RS19795 (brnT)	SG90_RS19800 (brnA)	BrnTA/-
+II	experimental	TA004923	-	Actinobacillus pleuropneumoniae serovar 3 str. JL03 (chromosome)	NC_010278	APJL_1864 (vapC)	APJL_1865 (vapB)	vapBC/PHD-PIN
+II	experimental	TA004922	GI	Actinobacillus pleuropneumoniae serovar 3 str. JL03 (chromosome)	NC_010278	APJL_1767 (vapC)	APJL_1766 (vapB)	vapBC/AbrB-PIN
+II	experimental	TA004914	-	Actinobacillus pleuropneumoniae serovar 3 str. JL03 (chromosome)	NC_010278	APJL_0659 (vapC)	APJL_0660 (vapB)	vapBC/AbrB-PIN
+II	experimental	TA004918	-	Actinobacillus pleuropneumoniae serovar 3 str. JL03 (chromosome)	NC_010278	APJL_1288 (relE)	APJL_1287 (relB)	relBE/PHD-RelE
+II	experimental	TA010181	-	Aggregatibacter actinomycetemcomitans D11S 1 (chromosome)	NC_013416	D11S_RS05705 (relE)	D11S_RS05710 (relB)	relBE/-
+II	experimental	TA010182	-	Aggregatibacter actinomycetemcomitans D11S 1 (chromosome)	NC_013416	D11S_RS08275 (relE)	D11S_RS08270 (relB)	relBE/-
+II	experimental	TA010067	-	Agrobacterium tumefaciens str. C58 (chromosome)	NC_003062	ATU_RS04645 (mazF)	ATU_RS04640 (mazE)	mazEF/-
+II	experimental	TA010077	-	Agrobacterium tumefaciens str. C58 (chromosome)	NC_003062	ATU_RS09850 (yoeB)	ATU_RS09855 (yefM)	yefM-yoeB (relBE)/-
+II	experimental	TA001499	-	Bacillus anthracis str. Sterne (chromosome)	NC_005945	BAS_RS01325 (pemK)	BAS_RS01320 (pemI)	pemIK/RHH-MazF
+II	experimental	TA006297	-	Bacillus cereus ATCC 14579 (chromosome)	NC_004722	BC_RS12185 (spoIISA)	-	spoIISABC/-
+II	experimental	TA010004	Prophage	Bacillus subtilis strain Ia1a (chromosome)	NZ_FMSN01000010	BQ1740_RS18145 (phRel2)	BQ1740_RS18150 (ATphRel2)	PhRel2-ATphRel2/-
+II	experimental	TA010062	-	Bacillus subtilis subsp. subtilis NCIB 3610 = ATCC 6051 = DSM 10 strain NCIB 3610 (chromosome)	NZ_CP034484	EJJ34_RS10455 (yobL)	EJJ34_RS10450 (yobK)	yobL-yobK/-
+II	experimental	TA010061	-	Bacillus subtilis subsp. subtilis NCIB 3610 = ATCC 6051 = DSM 10 strain NCIB 3610 (chromosome)	NZ_CP034484	EJJ34_RS11845 (yokI)	EJJ34_RS11840 (yokJ)	yokI-yokJ/-
+II	experimental	TA010060	-	Bacillus subtilis subsp. subtilis NCIB 3610 = ATCC 6051 = DSM 10 strain NCIB 3610 (chromosome)	NZ_CP034484	EJJ34_RS19710 (ywqJ)	EJJ34_RS19705 (ywqK)	ywqJ-ywqK/-
+II	experimental	TA010059	-	Bacillus subtilis subsp. subtilis NCIB 3610 = ATCC 6051 = DSM 10 strain NCIB 3610 (chromosome)	NZ_CP034484	EJJ34_RS14095 (yqcG)	EJJ34_RS14100 (yqcF)	yqcG-yqcF/-
+II	experimental	TA010058	-	Bacillus subtilis subsp. subtilis NCIB 3610 = ATCC 6051 = DSM 10 strain NCIB 3610 (chromosome)	NZ_CP034484	EJJ34_RS03930 (yeeF)	EJJ34_RS03925 (yezG)	yeeF-yezG/-
+II	experimental	TA010057	-	Bacillus subtilis subsp. subtilis NCIB 3610 = ATCC 6051 = DSM 10 strain NCIB 3610 (chromosome)	NZ_CP034484	EJJ34_RS21365 (yxiD)	EJJ34_RS21360 (yxxD)	yxiD-yxxD/-
+II	experimental	TA000134	-	Bacillus subtilis subsp. subtilis str. 168 (chromosome)	NC_000964	BSU_04660 (mazF)	BSU_04650 (mazE)	mazEF/RHH-MazF
+II	experimental	TA006029	-	Bacillus subtilis subsp. subtilis str. 168 (chromosome)	NC_000964	BSU_12830 (spoIISA)	BSU_12820 (spoIISB)	spoIISABC/-
+II	experimental	TA006030	-	Bacillus subtilis subsp. subtilis str. 168 (chromosome)	NC_000964	BSU_39300 (yxiD)	BSU_39290 (yxxD)	yxiD-yxxD/-
+II	experimental	TA010009	-	Bartonella apis strain BBC0122 (chromosome)	NZ_CP015625	BBC0122_RS09205 (panT)	BBC0122_RS09200 (panA)	PanAT/-
+II	experimental	TA010186	Plasmid	Bartonella schoenbuchensis R1 (plasmid pVbh_BscR1)	NZ_CP019790	BscR1v2_RS07925 (VbhT)	BscR1v2_RS07930 (VbhA)	FicTA/-
+II	experimental	TA006257	GI	Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222 (chromosome)	NC_011593	BLON_RS07270 (relE)	BLON_RS07265 (relB)	relBE/RelE(antitoxin)
+II	experimental	TA006256	-	Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222 (chromosome)	NC_011593	BLON_RS00060 (relE)	BLON_RS00065 (relB)	relBE/RelE(toxin)
+II	experimental	TA006259	-	Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222 (chromosome)	NC_011593	BLON_RS08335 (mazF)	BLON_RS08330 (mazE)	mazEF/-
+II	experimental	TA006260	-	Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222 (chromosome)	NC_011593	BLON_RS08710 (mazF)	BLON_RS08705 (mazE)	mazEF/-
+II	experimental	TA006261	-	Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222 (chromosome)	NC_011593	BLON_RS04730 (relE)	BLON_RS04725 (relB)	relBE/PIN(toxin)
+II	experimental	TA006258	Prophage	Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222 (chromosome)	NC_011593	BLON_RS07965 (mazF)	BLON_RS07970 (mazE)	mazEF/-
+II	experimental	TA006289	GI	Bifidobacterium longum subsp. longum JDM301 (chromosome)	NC_014169	BLJ_RS05005 (relE)	BLJ_RS05010 (relB)	relBE/-
+II	experimental	TA010011	GI	Bifidobacterium ruminantium strain An807 An807_NODE_4_length_147701_cov_109.271 (chromosome)	NZ_JACJUA010000004	H6G88_RS06330 (panT)	H6G88_RS06325 (panA)	PanAT/-
+II	experimental	TA010054	-	Bosea sp. PAMC 26642 strain PAMC26642 (chromosome)	NZ_CP014301	AXW83_RS01405 (vapC)	AXW83_RS01400 (vapB)	vapBC/-
+II	experimental	TA000843	-	Bradyrhizobium diazoefficiens USDA 110 (chromosome)	NC_004463	BJA_RS11930 (vapC)	BJA_RS11935 (vapB)	vapBC/PHD-PIN
+II	experimental	TA002224	GI	Brucella melitensis biovar Abortus 2308 (chromosome)	NC_007618	BAB_RS20710 (brnT)	BAB_RS20705 (brnA)	BrnTA/RHH-COG2929
+II	experimental	TA006121	GI	Brucella melitensis biovar Abortus 2308 (chromosome)	NC_007618	BAB_RS20710 (brnT)	BAB_RS20705 (brnA)	BrnTA/RHH-COG2929
+II	experimental	TA010010	Prophage	Burkholderia prophage phi52237 (chromosome)	NC_007145	BPSphi5223_0001 (panT)	BPSphi5223_0049 (panA)	PanAT/-
+II	experimental	TA006108	-	Burkholderia pseudomallei K96243 (chromosome)	NC_006351	BPS_RS27375 (hipA)	BPS_RS27370 (hipB)	hipBA/Xre-HipA
+II	experimental	TA001547	Prophage IS/Tn	Burkholderia pseudomallei K96243 (chromosome)	NC_006351	BPSS0395 (brnT)	BPSS0394 (brnA)	BrnTA/RHH-COG2929
+II	experimental	TA010093	-	Burkholderia pseudomallei K96243 (chromosome)	NC_006351	BPS_RS23605 (doc)	BPS_RS23610 (phd)	phd-doc/-
+II	experimental	TA006107	Prophage IS/Tn	Burkholderia pseudomallei K96243 (chromosome)	NC_006351	BPS_RS20815 (hicA)	BPS_RS20820 (hicB)	hicAB/HicB-HicA
+II	experimental	TA006105	Prophage	Burkholderia pseudomallei K96243 (chromosome)	NC_006350	BPS_RS00910 (relE)	BPS_RS00905 (relB)	relBE/Xre-RelE
+II	experimental	TA010037	Prophage	Burkholderia pseudomallei K96243 (chromosome)	NC_006350	BPS_RS18030 (higB)	BPS_RS18025 (higA)	higBA (relBE)/-
+II	experimental	TA006106	Prophage	Burkholderia pseudomallei K96243 (chromosome)	NC_006351	BPS_RS24505 (relE)	BPS_RS24510 (relB)	relBE/RelE(toxin)
+II	experimental	TA010184	Plasmid IS/Tn	Campylobacter fetus subsp. venerealis str. 84-112 (plasmid II)	NZ_HG004427	CSG_RS09935 (Fic)	CSG_RS09930 (Fti)	FicTA/-
+II	experimental	TA010185	ICE	Campylobacter fetus subsp. venerealis str. 84-112 (chromosome)	NZ_HG004426	CSG_RS06655 (Fic)	CSG_RS06660 (Fic)	fic-relB/-
+II	experimental	TA006286	Plasmid	Campylobacter jejuni subsp. jejuni IA3902 (plasmid pVir)	NC_017284	CJSA_RS08780 (virT)	CJSA_RS08775 (virA)	virAT/-
+II	experimental	TA010042	-	Candidatus Desulforudis audaxviator MP104C (chromosome)	NC_010424	DAUD_RS09255 (mazF)	DAUD_RS09260 (mazE)	mazEF/-
+II	experimental	TA000228	-	Caulobacter crescentus CB15 (chromosome)	NC_002696	CC_RS04550 (parE)	CC_RS04555 (parD)	parDE/RHH-RelE
+II	experimental	TA000226	-	Caulobacter crescentus CB15 (chromosome)	NC_002696	CC_RS04185 (relE)	CC_RS04190 (relB)	relBE/RHH-RelE
+II	experimental	TA000233	-	Caulobacter crescentus CB15 (chromosome)	NC_002696	CC_RS15575 (parE)	CC_RS15580 (parD)	parDE/RHH-RelE
+II	experimental	TA000229	-	Caulobacter crescentus CB15 (chromosome)	NC_002696	CC_RS13115 (relE)	CC_RS13120 (relB)	relBE/RHH-RelE
+II	experimental	TA010104	-	Caulobacter crescentus NA1000 (chromosome)	NC_011916	CCNA_00482 (HipA1)	CCNA_00481 (HipB1)	hipBA/-
+II	experimental	TA010075	GI	Caulobacter crescentus NA1000 (chromosome)	NC_011916	CCNA_02821 (HipA2)	CCNA_02822 (HipB2)	hipBA/-
+II	experimental	TA010076	-	Caulobacter crescentus NA1000 (chromosome)	NC_011916	CCNA_02858 (HipA3)	CCNA_02859 (HipB3)	hipBA/-
+II	experimental	TA10002b	ICE	Cellulomonas marina strain NBRC 110784 sequence14 (chromosome)	NZ_BONM01000014	Cma02nite_RS09435 (faRel)	Cma02nite_RS09440 (AT2faRel)	FaRel-AT2faRel/-
+II	experimental	TA010095	ICE	Clostridium difficile R20291 (chromosome)	NC_013316	CDR20291_RS09590 (relE)	CDR20291_RS09595 (relB)	relBE/-
+II	experimental	TA010096	-	Clostridium difficile R20291 (chromosome)	NC_013316	CDR20291_RS17750 (mazF)	CDR20291_RS17755 (mazE)	mazEF/-
+II	experimental	TA010003	-	Coprobacillus sp. D7 cont2.58 (chromosome)	ACDT02000058	MBAG_03135 (faRel2)	MBAG_03619 (ATfaRel2)	FaRel2-ATfaRel2/-
+II	experimental	TA010015	-	Corynebacterium doosanense CAU 212 = DSM 45436 strain CAU 212(T) (chromosome)	NZ_CP006764	CDOO_RS11570 (panT)	CDOO_RS11575 (panA)	PanAT/-
+II	experimental	TA000137	-	Deinococcus radiodurans R1 (chromosome)	NC_001263	DR_RS02150 (mazF)	DR_RS02145 (mazE)	mazEF/AbrB-MazF
+II	experimental	TA010073	-	Deinococcus radiodurans R1 = ATCC 13939 = DSM 20539 strain R1 (chromosome)	NZ_CP068791	DRO_RS02125 (mazF)	DRO_RS02120 (mazE)	mazEF/-
+II	experimental	TA003858	-	Dichelobacter nodosus VCS1703A (chromosome)	NC_009446	DNO_RS05125 (vapC)	DNO_RS05120 (vapB)	vapBC/AbrB-PIN
+II	experimental	TA003856	Prophage	Dichelobacter nodosus VCS1703A (chromosome)	NC_009446	DNO_RS01345 (vapC)	DNO_RS01340 (vapB)	vapBC/AbrB-PIN
+II	experimental	TA010066	-	Dickeya dadantii 3937 (chromosome)	NC_014500	DDA3937_RS07415 (dhiT)	DDA3937_RS07420 (dhiA)	DhiAT/-
+II	experimental	TA010064	ICE	Dickeya dadantii 3937 (chromosome)	NC_014500	DDA3937_RS03885 (ccdB)	DDA3937_RS03880 (ccdA)	ccdAB/-
+II	experimental	TA010065	GI	Dickeya dadantii 3937 (chromosome)	NC_014500	DDA3937_RS11880 (doc)	DDA3937_RS11885 (phd)	phd-doc/-
+II	experimental	TA010072	Prophage	Edwardsiella tarda EIB202 (chromosome)	NC_013508	ETAE_RS17330 (yoeB)	ETAE_RS07650 (yefM)	yefM-yoeB (relBE)/-
+II	experimental	TA006104	Plasmid	Enterococcus faecalis (plasmid pW9-2)	NG_041566	pJHW9-2_006 (zeta)	pJHW9-2_005 (epsilon)	omega-epsilon-zeta/-
+II	experimental	TA010091	Prophage	Enterococcus faecalis ATCC 29212 (chromosome)	NZ_CP008816	DR75_RS09115 (IrrE)	DR75_RS09110 (ImmA)	ImmA-IrrE/-
+II	experimental	TA010090	ICE	Enterococcus faecalis ATCC 29212 (chromosome)	NZ_CP008816	DR75_RS10510 (mazF)	DR75_RS10515 (mazE)	mazEF/-
+II	experimental	TA010092	ICE	Enterococcus faecalis ATCC 29212 (chromosome)	NZ_CP008816	DR75_RS11595 (IrrE)	DR75_RS11600 (ImmA)	ImmA-IrrE/-
+II	experimental	TA006115	Plasmid	Enterococcus faecium (plasmid pS177)	NC_014959	HS770_RS00035 (Txe)	HS770_RS00040 (Axe)	Txe-Axe/-
+II	experimental	TA006037	IS/Tn	Enterococcus faecium (ICE)	HE963029	Locus_75 (pezA)	Locus_74 (pezT)	pezAT/-
+II	experimental	TA006022	Plasmid	Enterococcus faecium (plasmid pRUM)	NC_005000	HKK39_RS00035 (Txe)	HKK39_RS00040 (Axe)	Txe-Axe/-
+II	experimental	TA006130	IS/Tn Plasmid	Erwinia pyrifoliae Ep1/96 (plasmid pEP36)	NC_004445	HS200_RS00060 (stbE)	HS200_RS00065 (stbD)	stbDE/-
+II	experimental	TA006131	Plasmid	Escherichia coli (plasmid pO26-CRL-125)	NC_022996	HTC40_RS00015 (relE)	HTC40_RS00010 (relB)	relBE/PHD-RelE
+II	experimental	TA010119	Plasmid IS/Tn	Escherichia coli (plasmid pJIE512b)	NC_025198	H4J97_RS00015 (parE)	H4J97_RS00010 (parD)	parDE/-
+II	experimental	TA006132	Plasmid	Escherichia coli (plasmid pO111-CRL-115)	NC_022992	HTA80_RS00015 (relE)	HTA80_RS00010 (relB)	relBE/PHD-RelE
+II	experimental	TA006290	-	Escherichia coli BW25113 (chromosome)	NZ_CP009273	BW25113_RS01140 (yafQ)	BW25113_RS01145 (dinJ)	DinJ-YafQ (relBE)/-
+II	experimental	TA010023	-	Escherichia coli BW25113 (chromosome)	NZ_CP009273	BW25113_RS13720 (rnlA)	BW25113_RS13725 (rnlB)	rnlAB/-
+II	experimental	TA006076	-	Escherichia coli BW2952 (chromosome)	NC_012759	BWG_RS13160 (rnlA)	BWG_RS13165 (rnlB)	rnlAB/-
+II	experimental	TA006075	-	Escherichia coli DH1 (chromosome)	NC_017638	ECDH1ME8569_RS13545 (rnlA)	ECDH1ME8569_RS13550 (rnlB)	rnlAB/-
+II	experimental	TA004502	-	Escherichia coli HS (chromosome)	NC_009800	EcHS_A0501 (itaT)	EcHS_A0502 (itaR)	itaRT/RHH-GNAT
+II	experimental	TA006145	Plasmid	Escherichia coli K-12 (plasmid F)	NC_002483	HXF02_RS00205 (ccdB)	HXF02_RS00200 (ccdA)	ccdAB/RHH-MazF
+II	experimental	TA010098	GI	Escherichia coli Nissle 1917 (chromosome)	NZ_CP007799	ECOLIN_RS08665 (hipA)	ECOLIN_RS08670 (hipB)	hipBA/-
+II	experimental	TA010099	-	Escherichia coli Nissle 1917 (chromosome)	NZ_CP007799	ECOLIN_RS00270 (ccdB)	ECOLIN_RS00265 (ccdA)	ccdAB/-
+II	experimental	TA010121	IS/Tn	Escherichia coli O127:H6 str. E2348/69 (chromosome)	NC_011601	E2348C_RS20315 (HipT)	E2348C_RS20320 (HipS)	HipBST/-
+II	experimental	TA000200	-	Escherichia coli O157:H7 str. EDL933 (chromosome)	NC_002655	Z_RS22685 (ataT)	Z_RS22690 (ataR)	ataRT/RHH-GNAT
+II	experimental	TA000199	-	Escherichia coli O157:H7 str. EDL933 (chromosome)	NC_002655	Z4777 (ataT)	Z4776 (ataR)	ataRT/RHH-GNAT
+II	experimental	TA000190	-	Escherichia coli O157:H7 str. EDL933 (chromosome)	NC_002655	Z_RS00275 (ccdB)	Z_RS00270 (ccdA)	ccdAB/RHH-MazF
+II	experimental	TA010018	-	Escherichia coli O157:H7 str. Sakai (chromosome)	NC_002695	ECs_0053 (ccdB)	ECs_0052 (ccdA)	ccdAB/RHH-MazF
+II	experimental	TA006078	Plasmid	Escherichia coli O157:H7 str. Sakai (plasmid pOSAK1)	NC_002127	pOSAK1_03 (lsoA)	pOSAK1_02 (lsoB)	lsoAB/-
+II	experimental	TA001006	-	Escherichia coli O157:H7 str. Sakai (chromosome)	NC_002695	ECs_1067 (parE_1)	ECs_1068 (paaA)	paaR-paaA-parE/RHH-RelE
+II	experimental	TA001008	Prophage	Escherichia coli O157:H7 str. Sakai (chromosome)	NC_002695	ECs_2281 (parE_1)	ECs_2280 (paaA)	paaR-paaA-parE/RHH-RelE
+II	experimental	TA001005	-	Escherichia coli O157:H7 str. Sakai (chromosome)	NC_002695	Ecs_5400 (relE)	ECs_5399 (relB)	relBE/Xre-RelE
+II	experimental	TA010007	Prophage	Escherichia coli STEC_O31 (chromosome)	NZ_AFEX01000045	BE44_RS02910 (panT)	BE44_RS0125895 (panA)	PanAT/-
+II	experimental	TA010195	-	Escherichia coli strain BL21 (TaKaRa) (chromosome)	NZ_CP010816	SR36_RS07605 (hipA)	SR36_RS07610 (hipB)	hipBA/-
+II	experimental	TA010189	-	Escherichia coli strain DH5alpha (chromosome)	NZ_CP025520	CDN75_RS02075 (hicA)	CDN75_RS02080 (hicB)	hicAB/-
+II	experimental	TA010063	Plasmid	Escherichia coli strain Ec158 (plasmid pEc158)	NZ_KY887596	HTM98_RS00130 (higB)	HTM98_RS00125 (higA)	higBA (relBE)/-
+II	experimental	TA010150	Plasmid	Escherichia coli strain JIE143 transconjugant Tx143 (plasmid pJIE143)	JN194214	- (hicA)	- (hicB)	hicAB/-
+II	experimental	TA010151	Plasmid	Escherichia coli strain JIE143 transconjugant Tx143 (plasmid pJIE143)	JN194214	- (TsxA)	- (TsxB)	TsxAB/-
+II	experimental	TA010125	-	Escherichia coli str. K-12 substr. MC4100 strain K-12 (chromosome)	NZ_HG738867	BN896_RS17580 (higB)	BN896_RS17585 (higA)	higBA (relBE)/-
+II	experimental	TA010130	-	Escherichia coli str. K-12 substr. MC4100 strain K-12 (chromosome)	NZ_HG738867	BN896_RS19135 (mazF)	BN896_RS19130 (mazE)	mazEF/-
+II	experimental	TA001045	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b3022 (mqsR)	b3021 (mqsA)	mqsRA (relBE)/Xre-YgiU
+II	experimental	TA006100	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b3022 (mqsR)	b3021 (mqsA)	mqsRA (relBE)/Xre-YgiU
+II	experimental	TA001043	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b4539 (yoeB)	b2017 (yefM)	yefM-yoeB (relBE)/PHD-RelE
+II	experimental	TA001044	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b2782 (mazF)	b2783 (mazE)	mazEF/AbrB-MazF
+II	experimental	TA006279	GI	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b4566 (yjhX)	b4307 (yjhQ)	yjhX-yjhQ/-
+II	experimental	TA006157	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b0233 (yafO)	b0232 (yafN)	yafN-yafO (relBE)/-PHD
+II	experimental	TA001046	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b3083 (higB)	b3082 (higA)	higBA (relBE)/Xre-RelE
+II	experimental	TA001047	GI	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b3130 (yhaV)	b3129 (prlF)	prlF-yhaV (relBE)/AbrB-RelE
+II	experimental	TA001049	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b4225 (chpB)	b4224 (chpS)	chpSB/AbrB-MazF
+II	experimental	TA001038	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b0225 (yafQ)	b0226 (dinJ)	DinJ-YafQ (relBE)/RHH-RelE
+II	experimental	TA006077	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b2630 (rnlA)	b2631 (rnlB)	rnlAB/-
+II	experimental	TA001039	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b4532 (hicA)	b1438 (hicB)	hicAB/HicB-HicA
+II	experimental	TA001040	GI	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b1507 (hipA)	b1508 (hipB)	hipBA/Xre-HipA
+II	experimental	TA001041	Prophage	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b1563 (relE)	b1564 (relB)	relBE/RHH-RelE
+II	experimental	TA010022	-	Escherichia coli str. K-12 substr. W3110 strain K-12 substr. ZK126 (chromosome)	NZ_CP017979	BL257_RS14235 (rnlA)	BL257_RS14240 (rnlB)	rnlAB/-
+II	experimental	TA010089	-	Haemophilus influenzae 86-028NP (chromosome)	NC_007146	NTHI_RS02725 (VapD)	NTHI_RS02730 (VapX)	VapXD/-
+II	experimental	TA006124	-	Haemophilus influenzae 86-028NP (chromosome)	NC_007146	NTHI_RS08835 (higB)	NTHI_RS08830 (higA)	higBA (relBE)/Xre-RelE
+II	experimental	TA001066	-	Haemophilus influenzae Rd KW20 (chromosome)	NC_000907	HI_RS01715 (vapC)	HI_RS01710 (vapB)	vapBC/AbrB-PIN
+II	experimental	TA001070	-	Haemophilus influenzae Rd KW20 (chromosome)	NC_000907	HI0947 (vapC)	HI0948 (vapB)	vapBC/AbrB-PIN
+II	experimental	TA001067	-	Haemophilus influenzae Rd KW20 (chromosome)	NC_000907	HI0660 (toxT)	HI0659 (toxA)	toxTA/Xre-RelE
+II	experimental	TA010129	-	Haemophilus influenzae strain 69P2H1 N69P2H1_45_2 (chromosome)	NZ_MZIN01000044	BV136_RS07045 (VapC1)	BV136_RS07040 (VapB1)	vapBC/-
+II	experimental	TA006127	-	Helicobacter pylori 26695 (chromosome)	NC_000915	HP_RS04350 (relE)	HP_RS04355 (relB)	relBE/-
+II	experimental	TA000028	-	Helicobacter pylori 26695 (chromosome)	NC_000915	HP_RS04360 (relE)	HP_RS04365 (relB)	relBE/-
+II	experimental	TA010088	ICE	Helicobacter pylori P12 (chromosome)	NC_011498	HPP12_RS02330 (TfiT)	HPP12_RS02325 (TfiA)	DinJ-YafQ (relBE)/-
+II	experimental	TA010008	-	Helicobacter sp. 13S00482-2 NODE_7_length_88364_cov_126.498_ID_13 (chromosome)	NZ_MLAT01000007	BKH42_RS04665 (panT)	BKH42_RS04660 (panA)	PanAT/-
+II	experimental	TA010197	Plasmid	Klebsiella pneumoniae (plasmid pKPS30)	NC_023314	HTC19_RS00330 (vagD)	HTC19_RS00335 (vagC)	vagCD/-
+II	experimental	TA010120	-	Klebsiella pneumoniae subsp. pneumoniae HS11286 (chromosome)	NC_016845	KPHS_05890 (KacT)	KPHS_05880 (KacA)	kacAT/-
+II	experimental	TA010069	Plasmid	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 (plasmid pKPN7)	NC_009653	KPN_RS28325 (mazF)	KPN_RS28320 (mazE)	mazEF/-
+II	experimental	TA004250	-	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 (chromosome)	NC_009648	KPN_04186 (vapC)	KPN_04185 (vapB)	vapBC/RHH-PIN
+II	experimental	TA010112	-	Lacticaseibacillus paracasei strain 2333 DinJ and YafQ genes (chromosome)	MK544943	Locus_1 (yafQ)	Locus_0 (dinJ)	DinJ-YafQ (relBE)/-
+II	experimental	TA010111	-	Lacticaseibacillus paracasei strain 4366 DinJ and YafQ genes (chromosome)	MK544944	Locus_1 (yafQ)	Locus_0 (dinJ)	DinJ-YafQ (relBE)/-
+II	experimental	TA010021	-	Lacticaseibacillus rhamnosus 51B (chromosome)	NZ_JMSI01000003	LR51B_RS07265 (yoeB)	LR51B_RS07260 (yefM)	yefM-yoeB (relBE)/-
+II	experimental	TA010110	-	Lacticaseibacillus rhamnosus strain 1019 DinJ and YafQ genes (chromosome)	MK544948	Locus_1 (yafQ)	Locus_0 (dinJ)	DinJ-YafQ (relBE)/-
+II	experimental	TA010108	-	Lacticaseibacillus rhamnosus strain 1473 DinJ and YafQ genes (chromosome)	MK544947	Locus_1 (yafQ)	Locus_0 (dinJ)	DinJ-YafQ (relBE)/-
+II	experimental	TA010109	-	Lacticaseibacillus rhamnosus strain 2360 DinJ and YafQ genes (chromosome)	MK544946	Locus_1 (yafQ)	Locus_0 (dinJ)	DinJ-YafQ (relBE)/-
+II	experimental	TA010020	-	Lacticaseibacillus rhamnosus strain 24 (chromosome)	NZ_JPZB01000034	LR24_RS01695 (yoeB)	LR24_RS01700 (yefM)	yefM-yoeB (relBE)/-
+II	experimental	TA006142	-	Lactobacillus rhamnosus ATCC 8530 (chromosome)	NC_017491	LRHK_RS11050 (mazF)	LRHK_RS11055 (mazE)	mazEF/AbrB-MazF
+II	experimental	TA006144	GI	Lactobacillus rhamnosus ATCC 8530 (chromosome)	NC_017491	LRHK_RS13845 (relE)	LRHK_RS02420 (relB)	relBE/RHH-RelE
+II	experimental	TA006238	-	Lactobacillus rhamnosus ATCC 8530 (chromosome)	NC_017491	LRHK_RS11050 (mazF)	LRHK_RS11055 (mazE)	mazEF/MazF(toxin)
+II	experimental	TA006143	-	Lactobacillus rhamnosus ATCC 8530 (chromosome)	NC_017491	LRHK_RS12800 (yoeB)	LRHK_RS12795 (yefM)	yefM-yoeB (relBE)/RelE(antitoxin)
+II	experimental	TA006141	ICE	Lactobacillus rhamnosus ATCC 8530 (chromosome)	NC_017491	LRHK_RS11520 (pemK)	LRHK_RS11525 (pemI)	pemIK/RHH-MazF
+II	experimental	TA006239	GI	Lactobacillus rhamnosus ATCC 8530 (chromosome)	NC_017491	LRHK_RS13845 (relE)	LRHK_RS02420 (relB)	relBE/RelE(toxin)
+II	experimental	TA006135	-	Lactobacillus rhamnosus GG (chromosome)	NC_013198	LGG_RS12125 (pemK)	LGG_RS12130 (pemI)	pemIK/RHH-MazF
+II	experimental	TA006140	-	Lactobacillus rhamnosus GG (chromosome)	NC_017482	LRHM_RS12110 (pemK)	LRHM_RS12115 (pemI)	pemIK/RHH-MazF
+II	experimental	TA006137	-	Lactobacillus rhamnosus Lc 705 (chromosome)	NC_013199	LC705_RS11555 (mazF)	LC705_RS11560 (mazE)	mazEF/AbrB-MazF
+II	experimental	TA006136	-	Lactobacillus rhamnosus Lc 705 (chromosome)	NC_013199	LC705_RS12025 (pemK)	LC705_RS12030 (pemI)	pemIK/RHH-MazF
+II	experimental	TA006237	-	Lactobacillus rhamnosus Lc 705 (chromosome)	NC_013199	LC705_RS12925 (yoeB)	LC705_RS12920 (yefM)	yefM-yoeB (relBE)/RelE(toxin)
+II	experimental	TA006139	GI	Lactobacillus rhamnosus Lc 705 (chromosome)	NC_013199	LC705_RS14280 (relE)	LC705_RS02415 (relB)	relBE/RHH-RelE
+II	experimental	TA006138	-	Lactobacillus rhamnosus Lc 705 (chromosome)	NC_013199	LC705_RS12925 (yoeB)	LC705_RS12920 (yefM)	yefM-yoeB (relBE)/-
+II	experimental	TA001852	Plasmid	Lactobacillus salivarius UCC118 (plasmid pSF118-20)	NC_006529	LSL_RS00130 (pemK)	LSL_RS00125 (pemI)	pemIK/AbrB-MazF
+II	experimental	TA010131	Plasmid	Legionella pneumophila subsp. pneumophila str. Lorraine (plasmid pLELO)	NC_018141	LPO_RS16205 (mazF)	LPO_RS16210 (mazE)	mazEF/-
+II	experimental	TA010036	IS/Tn	Legionella pneumophila subsp. pneumophila str. Philadelphia 1 (chromosome)	NC_002942	LPG_RS11920 (HipT)	LPG_RS11915 (HipS)	HipBST/-
+II	experimental	TA000652	IS/Tn	Leptospira interrogans serovar Lai str. 56601 (chromosome)	NC_004342	LA_RS04175 (vapC)	LA_RS04180 (vapB)	vapBC/AbrB-PIN
+II	experimental	TA000655	-	Leptospira interrogans serovar Lai str. 56601 (chromosome)	NC_004342	LA_RS11750 (chpK)	LA_RS11755 (chpI)	chpIK/RHH-MazF
+II	experimental	TA010014	-	Ligilactobacillus animalis strain 381-IL-28 NODE_6_length_144356_cov_27.537725 (chromosome)	NZ_JMHU01000006	Lani381_RS09405 (panT)	Lani381_RS03055 (panA)	PanAT/-
+II	experimental	TA010167	Plasmid	Lysinibacillus sphaericus C3-41 (plasmid pBsph)	NC_010381	BSPH_RS22485 (ORF9)	BSPH_RS22490 (ORF10)	orf9-orf10/-
+II	experimental	TA010006	Prophage	Mycobacterium phage Phrann (chromosome)	NC_031266	BJD68_gp29 (phRel)	BJD68_gp30 (ATphRel)	PhRel-ATphRel/-
+II	experimental	TA006093	-	Mycobacterium smegmatis str. MC2 155 (chromosome)	NC_008596	MSMEG_RS06245 (doc)	MSMEG_RS06240 (phd)	phd-doc/Fic(toxin)
+II	experimental	TA003165	-	Mycobacterium smegmatis str. MC2 155 (chromosome)	NC_008596	MSMEG_RS06275 (vapC)	MSMEG_RS06270 (vapB)	vapBC/RHH-PIN
+II	experimental	TA010183	-	Mycobacterium sp. MHSD3 (chromosome)	NADK01000036	B5566_13860 (zeta)	B5566_13855 (epsilon)	omega-epsilon-zeta/-
+II	experimental	TA010005	GI	Mycobacterium terramassiliense strain AB308 (chromosome)	NZ_LT717701	MTAB308_RS17350 (capRel)	MTAB308_RS17345 (ATcapRel)	CapRel-ATcapRel/-
+II	experimental	TA000111	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv2103c (vapC)	Rv2104c (vapB)	vapBC/RHH-PIN
+II	experimental	TA000075	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv0549c (vapC)	Rv0550c (vapB)	vapBC/RHH-PIN
+II	experimental	TA000116	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv2548 (vapC)	Rv2547 (vapB)	vapBC/RHH-PIN
+II	experimental	TA000117	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv2549c (vapC)	Rv2550c (vapB)	vapBC/RHH-PIN
+II	experimental	TA000119	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv2602 (vapC)	Rv2601A (vapB)	vapBC/RHH-PIN
+II	experimental	TA000120	Prophage	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv2653c (novel[antitoxin])	Rv2654c (novel[toxin])	unclassified/-
+II	experimental	TA000121	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv2757c (vapC)	Rv2758c (vapB)	vapBC/RHH-PIN
+II	experimental	TA000076	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv0582 (vapC)	Rv0581 (vapB)	vapBC/RHH-PIN
+II	experimental	TA000077	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv0595c (vapC)	Rv0596c (vapB)	vapBC/PHD-PIN
+II	experimental	TA000078	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv0598c (vapC)	Rv0599c (vapB)	vapBC/AbrB-PIN
+II	experimental	TA000079	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv0609 (vapC)	Rv0608 (vapB)	vapBC/RHH-PIN
+II	experimental	TA000080	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv0617 (vapC)	Rv0616A (vapB)	vapBC/-
+II	experimental	TA000081	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv0624 (vapC)	Rv0623 (vapB)	vapBC/RHH-PIN
+II	experimental	TA000082	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv0627 (vapC)	Rv0626 (vapB)	vapBC/PHD-PIN
+II	experimental	TA000123	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv2829c (vapC)	Rv2830c (vapB)	vapBC/PHD-PIN
+II	experimental	TA006240	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv0059 (darT)	Rv0060 (darG)	darTG/-
+II	experimental	TA006241	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv0065 (vapC)	Rv0064A (vapB)	vapBC/RHH-PIN
+II	experimental	TA006245	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv1962c (vapC)	Rv1963c (vapB)	vapBC/PIN(toxin)
+II	experimental	TA006246	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv1982c (vapC)	Rv1982A (vapB)	vapBC/RHH-PIN
+II	experimental	TA006247	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv1991c (mazF)	Rv1991A (mazE)	mazEF/RHH-MazF
+II	experimental	TA006248	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv2063A (mazF)	Rv2063 (mazE)	mazEF/RHH-MazF
+II	experimental	TA006249	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv2142c (parE)	Rv2142A (parD)	parDE/-
+II	experimental	TA006252	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv2801c (mazF)	Rv2801A (mazE)	mazEF/RHH-MazF
+II	experimental	TA000124	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv2866 (relE)	Rv2865 (relB)	relBE/PHD-RelE
+II	experimental	TA000083	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv0656c (vapC)	Rv0657c (vapB)	vapBC/RHH-PIN
+II	experimental	TA000084	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv0659c (mazF)	Rv0660c (mazE)	mazEF/RHH-MazF
+II	experimental	TA000085	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv0661c (vapC)	Rv0662c (vapB)	vapBC/RHH-PIN
+II	experimental	TA000086	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv0665 (vapC)	Rv0664 (vapB)	vapBC/-
+II	experimental	TA000087	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv0749 (vapC)	Rv0748 (vapB)	vapBC/RHH-PIN
+II	experimental	TA000074	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv0301 (vapC)	Rv0300 (vapB)	vapBC/RHH-PIN
+II	experimental	TA000073	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv0299 (Rv0299)	Rv0298 (Rv0298)	Rv0298-Rv0299/RHH-MazF
+II	experimental	TA000088	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv0910 (novel[antitoxin])	Rv0909 (novel[toxin])	unclassified/-
+II	experimental	TA000090	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv1102c (mazF)	Rv1103c (mazE)	mazEF/-
+II	experimental	TA000091	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv1114 (vapC)	Rv1113 (vapB)	vapBC/RHH-PIN
+II	experimental	TA000092	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv1242 (vapC)	Rv1241 (vapB)	vapBC/RHH-PIN
+II	experimental	TA000093	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv1246c (relE)	Rv1247c (relB)	relBE/PHD-RelE
+II	experimental	TA000094	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv1397c (vapC)	Rv1398c (vapB)	vapBC/RHH-PIN
+II	experimental	TA000095	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv1495 (mazF)	Rv1494 (mazE)	mazEF/-
+II	experimental	TA000097	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv1561 (vapC)	Rv1560 (vapB)	vapBC/RHH-PIN
+II	experimental	TA000125	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv2872 (vapC)	Rv2871 (vapB)	vapBC/RHH-PIN
+II	experimental	TA000098	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv1720c (vapC)	Rv1721c (vapB)	vapBC/RHH-PIN
+II	experimental	TA000101	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv1942c (mazF)	Rv1943c (mazE)	mazEF/-
+II	experimental	TA000127	Prophage	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv3182 (higB)	Rv3183 (higA)	higBA (relBE)/Xre-RelE
+II	experimental	TA000129	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv3320c (vapC)	Rv3321c (vapB)	vapBC/RHH-PIN
+II	experimental	TA000103	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv1955 (higB)	Rv1956 (higA)	higBA (relBE)/Xre-RelE
+II	experimental	TA000130	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv3358 (relE)	Rv3357 (relB)	relBE/PHD-RelE
+II	experimental	TA000131	IScluster/Tn	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv3384c (vapC)	Rv3385c (vapB)	vapBC/PHD-PIN
+II	experimental	TA000132	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv3408 (vapC)	Rv3407 (vapB)	vapBC/PHD-PIN
+II	experimental	TA000105	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv1959c (parE)	Rv1960c (parD)	parDE/RHH-RelE
+II	experimental	TA010144	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv0366c (pezT)	Rv0367c (pezA)	pezAT/-
+II	experimental	TA000106	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv1989c (mbcT)	Rv1990c (mbcA)	mbcAT/COG5642-COG5654
+II	experimental	TA000107	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv2010 (vapC)	Rv2009 (vapB)	vapBC/RHH-PIN
+II	experimental	TA000112	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv2494 (vapC)	Rv2493 (vapB)	vapBC/RHH-PIN
+II	experimental	TA010041	Prophage	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv0919 (tacT)	Rv0918 (tacA)	tacAT/-
+II	experimental	TA010050	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv2022c (HigB2)	Rv2021c (HigA2)	higBA (relBE)/-
+II	experimental	TA000114	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv2530c (vapC)	Rv2530A (vapB)	vapBC/RHH-PIN
+II	experimental	TA010160	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv3098A (pemK)	- (pemI)	pemIK/-
+II	experimental	TA010048	-	Mycoplasma mycoides subsp. capri str. GM12 (chromosome)	NZ_CP001668	MMCAP2_RS03710 (Fic)	MMCAP2_RS03715 (RelB)	fic-relB/-
+II	experimental	TA010046	-	Mycoplasma mycoides subsp. capri str. GM12 (chromosome)	NZ_CP001668	MMCAP2_RS00685 (subtilisin-likeserineprotease)	MMCAP2_RS00680 (AAA-ATPase)	protease/-
+II	experimental	TA010170	-	Neisseria gonorrhoeae strain WHO M (genome assembly)	LT591906	WHOM_PCO00012 (ng_zeta1)	WHOM_PCO00013 (ng_epsilon1)	omega-epsilon-zeta/-
+II	experimental	TA000911	IS/Tn	Nitrosomonas europaea ATCC 19718 (chromosome)	NC_004757	ALW85_RS06130 (mazF)	ALW85_RS06135 (mazE)	mazEF/-
+II	experimental	TA010162	-	Nitrosomonas europaea ATCC 19718 (chromosome)	NC_004757	ALW85_RS04820 (mazF)	ALW85_RS04825 (mazE)	mazEF/-
+II	experimental	TA010101	-	Nitrospira sp. ND1 isolate Nitrospira sp. strain ND1 (chromosome)	NZ_FWEX01000005	NSND_RS02605 (mazF)	NSND_RS02610 (mazE)	mazEF/-
+II	experimental	TA006038	Plasmid IS/Tn	Paracoccus aminophilus (plasmid pAMI2)	NC_010847	G7C88_RS00030 (tad)	G7C88_RS00035 (ata)	tad-ata/COG5606-RelE
+II	experimental	TA006134	Plasmid	Paracoccus aminophilus (plasmid pAMI7)	NC_014832	G7C87_RS00025 (relE)	G7C87_RS00020 (relB)	relBE/RHH-RelE
+II	experimental	TA010122	Prophage	Paracoccus phage vB_PbeS_Pben1 (chromosome)	MK291441	pben1_p26 (hicA)	pben1_p25 (hicB)	hicAB/-
+II	experimental	TA010123	Prophage	Paracoccus phage vB_PkoS_Pkon1 (chromosome)	MK291442	pkon1_p44 (relE)	pkon1_p43 (relB)	relBE/-
+II	experimental	TA001222	-	Photorhabdus luminescens subsp. laumondii TTO1 (chromosome)	NC_005126	plu2358	plu2357	tenpIN/COG5642-COG5654
+II	experimental	TA010163	-	Plasmid DEFINITION (Plasmid RK2 (from Klebsiella pneumoniae) parD and parE genes)	L05507	- (parE)	- (parD)	parDE/-
+II	experimental	TA006146	Plasmid	Proteus vulgaris (plasmid Rts1)	NC_003905	HXF74_RS01175 (higB)	HXF74_RS01180 (higA)	higBA (relBE)/Xre-RelE
+II	experimental	TA010079	Plasmid	Pseudoalteromonas rubra strain SCSIO 6842 (plasmid pMBL6842)	NZ_CP013613	AT705_RS24520 (PrpT)	AT705_RS24525 (PrpA)	prpT-prpA/-
+II	experimental	TA010097	Plasmid	Pseudomonas aeruginosa (plasmid pUM505)	NC_016138	HS786_RS00600 (PumA)	HS786_RS00605 (PumB)	PumAB/-
+II	experimental	TA006283	Prophage	Pseudomonas aeruginosa PA1 (chromosome)	NC_022808	PA1S_RS06915 (hicA)	PA1S_RS31585 (hicB)	hicAB/-
+II	experimental	TA010161	-	Pseudomonas aeruginosa PA14 strain MA3 isolate DTU_MIE (chromosome)	NZ_CP127126	P4A98_RS25575 (higB)	P4A98_RS25570 (higA)	higBA (relBE)/-
+II	experimental	TA000180	-	Pseudomonas aeruginosa PAO1 (chromosome)	NC_002516	PA0124 (parE)	PA0125 (parD)	parDE/RHH-RelE
+II	experimental	TA010100	Prophage	Pseudomonas aeruginosa PAO1 (chromosome)	NC_002516	PA0729 (PfiT)	- (PfiA)	PfiT-PfiA/-
+II	experimental	TA000183	-	Pseudomonas aeruginosa PAO1 (chromosome)	NC_002516	PA3270	PA3269	PfiT-PfiA/Xre-GNAT
+II	experimental	TA000182	-	Pseudomonas aeruginosa PAO1 (chromosome)	NC_002516	PA1878 (vapC)	PA1879 (vapB)	vapBC/Xre-PIN
+II	experimental	TA010032	-	Pseudomonas aeruginosa PAO1 (chromosome)	NC_002516	- (higB)	PA4674 (higA)	higBA (relBE)/-
+II	experimental	TA003011	-	Pseudomonas aeruginosa UCBPP-PA14 (chromosome)	NC_008463	PA14_51010	PA14_51020	higBA (relBE)/Xre-COG5654
+II	experimental	TA006034	-	Pseudomonas mendocina ymp (chromosome)	NC_009439	PMEN_RS02800 (pmenT)	PMEN_RS02805 (pmenA)	pmenTA/-
+II	experimental	TA010012	-	Pseudomonas moraviensis strain BS3668 (chromosome)	LT629788	SAMN04490196_4922 (panT)	SAMN04490196_4923 (panA)	PanAT/-
+II	experimental	TA006083	-	Pseudomonas putida KT2440 (chromosome)	AE015451	PP_1586 (graT)	PP_1585 (graA)	higBA (relBE)/Xre-RelE
+II	experimental	TA000313	Prophage	Pseudomonas putida KT2440 (chromosome)	NC_002947	PP_4152 (PP_4152)	PP_4151 (PP_4151)	PP_4151-4152/MerR-PIN
+II	experimental	TA000310	-	Pseudomonas putida KT2440 (chromosome)	NC_002947	PP_2939 (yoeB)	PP_2940 (yefM)	yefM-yoeB (relBE)/PHD-RelE
+II	experimental	TA000307	-	Pseudomonas putida KT2440 (chromosome)	NC_002947	PP_2434	PP_2433	yefM-yoeB (relBE)/COG5642-COG5654
+II	experimental	TA000309	-	Pseudomonas putida KT2440 (chromosome)	NC_002947	PP_2500 (parE)	PP_2499 (relB)	relB-parE/RHH(antitoxin)
+II	experimental	TA000303	-	Pseudomonas putida KT2440 (chromosome)	NC_002947	PP_1199 (higB)	PP_1198 (higA)	higBA (relBE)/Xre-RelE
+II	experimental	TA000301	-	Pseudomonas putida KT2440 (chromosome)	NC_002947	PP_5435 (relE)	PP_0274 (higA)	relE-higA/Xre-RelE
+II	experimental	TA000314	-	Pseudomonas putida KT2440 (chromosome)	NC_002947	PP_4205 (mqsR)	PP_4204 (mqsA)	mqsRA (relBE)/Xre-YgiU
+II	experimental	TA010102	Plasmid	Pseudomonas putida S12 (plasmid pTTS12)	NZ_CP009975	RPPX_RS26260 (slvT)	RPPX_RS26255 (slvA)	slvAT/-
+II	experimental	TA010044	Plasmid IScluster/Tn	Pseudomonas resinovorans NBRC 106553 (plasmid pCAR1.3)	NC_021506	PCA10_RS29090 (PrcT)	PCA10_RS29085 (PrcA)	prcAT/-
+II	experimental	TA010138	Plasmid	Pseudomonas savastanoi (plasmid pPsv48A)	NC_019265	PSA3335_RS00235 (vapC)	PSA3335_RS00230 (vapB)	vapBC/-
+II	experimental	TA010136	Plasmid IScluster/Tn	Pseudomonas savastanoi (plasmid pPsv48A)	NC_019265	PSA3335_RS00100 (relE)	PSA3335_RS00105 (relB)	relBE/-
+II	experimental	TA010137	Plasmid IScluster/Tn	Pseudomonas savastanoi (plasmid pPsv48A)	NC_019265	PSA3335_RS00175 (relE)	PSA3335_RS00180 (relB)	relBE/-
+II	experimental	TA010139	Plasmid	Pseudomonas savastanoi (plasmid pPsv48A)	NC_019265	PSA3335_RS00260 (relE)	PSA3335_RS00265 (relB)	relBE/-
+II	experimental	TA010143	Plasmid	Pseudomonas savastanoi (plasmid pPsv48C)	NC_019292	PSPSV_RS00250 (relE)	PSPSV_RS00245 (relB)	relBE/-
+II	experimental	TA010140	Plasmid	Pseudomonas savastanoi (plasmid pPsv48B)	NC_019266	PSA3335_RS00055 (mazF)	PSA3335_RS00060 (mazE)	mazEF/-
+II	experimental	TA010141	Plasmid IScluster/Tn	Pseudomonas savastanoi (plasmid pPsv48C)	NC_019292	PSPSV_RS00020 (relE)	PSPSV_RS00015 (relB)	relBE/-
+II	experimental	TA010142	Plasmid IScluster/Tn	Pseudomonas savastanoi (plasmid pPsv48C)	NC_019292	PSPSV_RS00035 (relE)	PSPSV_RS00040 (relB)	relBE/-
+II	experimental	TA006025	-	Pseudomonas sp. LM13 (transposon)	KJ920396	Locus_2 (tad)	Locus_3 (ata)	tad-ata/COG5606-RelE
+II	experimental	TA010190	Plasmid	Pseudomonas sp. strain ANT_J3 (plasmid pA3J1)	NZ_KY498026	HXI37_RS00015 (relE)	HXI37_RS00020 (relB)	relBE/-
+II	experimental	TA006032	GI	Pseudomonas syringae pv. syringae B728a (chromosome)	NC_007005	PSYR_RS19685 (PsyrT)	PSYR_RS19690 (PsyrA)	PsyrTA/-
+II	experimental	TA000516	-	Pyrobaculum aerophilum str. IM2 (chromosome)	NC_003364	PAE_RS00470 (vapC)	PAE_RS00475 (vapB)	vapBC/RHH-PIN
+II	experimental	TA000535	-	Pyrobaculum aerophilum str. IM2 (chromosome)	NC_003364	PAE_RS09225 (vapC)	PAE_RS09230 (vapB)	vapBC/RHH-PIN
+II	experimental	TA006035	Plasmid	Rhizobium leguminosarum bv. trifolii WSM1325 (plasmid pR132505)	NC_012854	RLEG_RS34315 (rlegT)	RLEG_RS34320 (rlegA)	rlegTA/-
+II	experimental	TA010074	-	Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S	NC_016856	STM14_RS02980 (Hha)	STM14_RS02985 (TomB)	Hha-TomB/-
+II	experimental	TA010051	-	Salmonella enterica subsp. enterica serovar Typhimurium strain NCTC12023 (chromosome)	UFRD01000002	NCTC12023_03333 (TacT2)	NCTC12023_03334 (TacA2)	tacAT/-
+II	experimental	TA010052	GI IS/Tn	Salmonella enterica subsp. enterica serovar Typhimurium strain NCTC12023 (chromosome)	UFRD01000002	NCTC12023_04871 (TacT3)	NCTC12023_04872 (TacA3)	tacAT/-
+II	experimental	TA006087	-	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 (chromosome)	NC_003197	STM4031 (higB)	STM4030 (higA)	higBA (relBE)/Xre-RelE
+II	experimental	TA006088	-	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 (chromosome)	NC_003197	STM4032.2N (higB)	STM4033 (higA)	higBA (relBE)/Xre-RelE
+II	experimental	TA006086	-	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 (chromosome)	NC_003197	STM4528 (shpA)	STM4529 (shpB)	shpAB/RHH-COG2929
+II	experimental	TA010105	IS/Tn	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 (chromosome)	NC_003197	STM0291 (Rhs)	STM0292 (RhsI)	Rhs/-
+II	experimental	TA000443	-	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 (chromosome)	NC_003197	STM3651 (tacT)	STM3652 (tacA)	tacAT/RHH-GNAT
+II	experimental	TA000439	GI IS/Tn	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 (chromosome)	NC_003197	STM3033 (vapC)	STM3034 (vapB)	vapBC/AbrB-PIN
+II	experimental	TA010152	-	Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344	NC_016810	SL1344_RS02410 (Hha)	SL1344_RS02415 (TomB)	Hha-TomB/-
+II	experimental	TA000659	IS/Tn	Shewanella oneidensis MR-1 (chromosome)	NC_004347	SO_1444 (parE)	SO_1445 (copA)	ParE-CopA/-
+II	experimental	TA000658	IS/Tn	Shewanella oneidensis MR-1 (chromosome)	NC_004347	SO_0706 (hipA)	SO_0705 (hipB)	hipBA/Xre-HipA
+II	experimental	TA010038	IS/Tn	Shewanella putrefaciens CN-32 (chromosome)	CP000681	Sputcn32_2916 (hipA)	Sputcn32_2915 (hipB)	hipBA/-
+II	experimental	TA006033	Plasmid IS/Tn	Shewanella sp. ANA-3 (plasmid 1)	NC_008573	SHEWANA3_RS21760 (sanaT)	SHEWANA3_RS21755 (sanaA)	sanaTA/-
+II	experimental	TA010187	Plasmid	Shigella flexneri (plasmid pINV_F6_M1382 TrbH (trbH))	AY206447	- (MvpT)	- (MvpA)	vapBC/-
+II	experimental	TA001076	Plasmid	Shigella flexneri 2b (plasmid R100)	NC_002134	HXF40_RS00560 (pemK)	HXF40_RS00555 (pemI)	pemIK/-
+II	experimental	TA010135	-	Shigella flexneri 5a str. M90T (chromosome)	NZ_CP037923	EKN05_RS00070 (higB)	EKN05_RS00075 (higA)	higBA (relBE)/-
+II	experimental	TA006098	Plasmid	Sinorhizobium meliloti 1021 (plasmid pSymB)	NC_003078	SM_RS20630	SM_RS20625	higBA (relBE)/RES-Xre
+II	experimental	TA006097	Plasmid	Sinorhizobium meliloti 1021 (plasmid pSymA)	NC_003037	SM_RS26010 (relE)	SM_RS26005 (relB)	relBE/RHH-RelE
+II	experimental	TA000877	-	Sinorhizobium meliloti 1021 (chromosome)	NC_003047	SM_RS12380 (vapC)	SM_RS12375 (vapB)	vapBC/AbrB-PIN
+II	experimental	TA000875	-	Sinorhizobium meliloti 1021 (chromosome)	NC_003047	SMc04441 (hicA)	SMc04269 (hicB)	hicAB/HicB-HicA
+II	experimental	TA010145	ICE	Sphingobium sp. YBL2 (chromosome)	NZ_CP010954	TZ53_RS17650 (ParT)	TZ53_RS17655 (ParS)	ParST/-
+II	experimental	TA006092	-	Staphylococcus aureus (Insertion)	JN849634	Locus_10 (zeta)	Locus_11 (epsilon)	omega-epsilon-zeta/-
+II	experimental	TA006091	Plasmid	Staphylococcus aureus (plasmid pCH91)	NC_020227	HS951_RS00090 (pemK)	HS951_RS00095 (pemI)	pemIK/AbrB-MazF
+II	experimental	TA010078	-	Staphylococcus aureus strain HG003 isolate RN1 Scaffold_3 (chromosome)	NZ_JPPU01000003	IM26_RS18050 (mazF)	IM26_RS18045 (mazE)	mazEF/-
+II	experimental	TA010094	-	Staphylococcus aureus strain HG003 isolate RN1 Scaffold_3 (chromosome)	NZ_JPPU01000003	IM26_RS18050 (mazF)	IM26_RS18045 (mazE)	mazEF/-
+II	experimental	TA010153	Prophage	Staphylococcus aureus subsp. aureus MW2 (chromosome)	NC_003923	MW_RS07605 (higB)	MW_RS15240 (higA)	higBA (relBE)/-
+II	experimental	TA000611	Prophage	Staphylococcus aureus subsp. aureus MW2 (chromosome)	NC_003923	MW1437	MW1436	higBA (relBE)/Xre-COG2856
+II	experimental	TA000612	-	Staphylococcus aureus subsp. aureus MW2 (chromosome)	NC_003923	MW1992 (mazF)	MW1993 (mazE)	mazEF/RHH-MazF
+II	experimental	TA000613	-	Staphylococcus aureus subsp. aureus MW2 (chromosome)	NC_003923	MW2329 (relE)	MW2330 (relB)	relBE/PHD-RelE
+II	experimental	TA000614	-	Staphylococcus aureus subsp. aureus MW2 (chromosome)	NC_003923	MW2380 (relE)	MW2381 (relB)	relBE/PHD-RelE
+II	experimental	TA010115	-	Staphylococcus aureus subsp. aureus N315 (chromosome)	NC_002745	SA_RS09440 (tsbT)	SA_RS09445 (tsbA)	tsbAT/-
+II	experimental	TA001073	-	Staphylococcus aureus subsp. aureus N315 (chromosome)	NC_002745	SA_RS10775 (mazF)	SA_RS10780 (mazE)	mazEF/RHH-MazF
+II	experimental	TA001074	-	Staphylococcus aureus subsp. aureus N315 (chromosome)	NC_002745	SA_RS12585 (yoeB)	SA_RS12590 (yefM)	yefM-yoeB (relBE)/PHD-RelE
+II	experimental	TA001075	-	Staphylococcus aureus subsp. aureus N315 (chromosome)	NC_002745	SA_RS12895 (relE)	SA_RS12900 (relB)	relBE/PHD-RelE
+II	experimental	TA010114	-	Staphylococcus aureus subsp. aureus N315 (chromosome)	NC_002745	SA_RS04270 (TsaT)	SA_RS04275 (TsaA)	TsaAT/-
+II	experimental	TA010117	-	Staphylococcus aureus subsp. aureus N315 (chromosome)	NC_002745	SA_RS10870 (TsdT)	SA_RS10875 (TsdA)	TsdAT/-
+II	experimental	TA010116	Prophage	Staphylococcus aureus subsp. aureus N315 (chromosome)	NC_002745	SA_RS10500 (TscT)	SA_RS10505 (TscA)	TscAT/-
+II	experimental	TA010040	-	Staphylococcus aureus subsp. aureus N315 (chromosome)	NC_002745	SA_RS09440 (tsbT)	SA_RS09445 (tsbA)	tsbAT/-
+II	experimental	TA002427	-	Staphylococcus aureus subsp. aureus NCTC 8325 (chromosome)	NC_007795	SAOUHSC_02691 (yoeB)	SAOUHSC_02692 (yefM)	yefM-yoeB (relBE)/PHD-RelE
+II	experimental	TA010043	-	Staphylococcus aureus subsp. aureus NCTC 8325 (chromosome)	NC_007795	SAOUHSC_02756 (yoeB)	SAOUHSC_02757 (yefM)	yefM-yoeB (relBE)/-
+II	experimental	TA004244	Prophage	Staphylococcus aureus subsp. aureus str. Newman (chromosome)	NC_009641	NWMN_RS01465	NWMN_RS01470	sprA1-sprA1AS/Xre-COG2856
+II	experimental	TA010177	-	Staphylococcus epidermidis isolate BPH0662 (chromosome)	NZ_LT571449	BN6763_RS09900 (mazF)	BN6763_RS09905 (mazE)	mazEF/-
+II	experimental	TA010178	-	Staphylococcus epidermidis isolate BPH0662 (chromosome)	NZ_LT571449	BN6763_RS06135 (sam-T)	BN6763_RS06140 (sam-AT)	sam/-
+II	experimental	TA010179	Prophage	Staphylococcus epidermidis isolate BPH0662 (chromosome)	NZ_LT571449	BN6763_RS09260 (doc)	BN6763_RS09265 (phd)	phd-doc/-
+II	experimental	TA006090	-	Staphylococcus equorum (TA locus)	KC020193	Locus_1 (mazF)	Locus_0 (mazE)	mazEF/-
+II	experimental	TA006128	Plasmid	Streptococcus mutans (plasmid pNC101)	NC_019239	HS718_RS00030 (relE)	HS718_RS00025 (relB)	relBE/RHH-RelE
+II	experimental	TA006129	Plasmid	Streptococcus mutans (plasmid pDC09)	NC_019238	HS723_RS00030 (relE)	HS723_RS00025 (relB)	relBE/RHH-RelE
+II	experimental	TA010164	IS/Tn	Streptococcus mutans UA159 (chromosome)	NC_004350	SMU_RS00830 (smuT)	SMU_RS00835 (smuA)	SmuAT/-
+II	experimental	TA000663	IS/Tn	Streptococcus mutans UA159 (chromosome)	NC_004350	SMU_RS00860 (mazF)	SMU_RS00855 (mazE)	mazEF/AbrB-MazF
+II	experimental	TA000665	-	Streptococcus mutans UA159 (chromosome)	NC_004350	SMU_RS04160 (relE)	SMU_RS04155 (relB)	relBE/RHH-RelE
+II	experimental	TA006080	GI	Streptococcus pneumoniae gamPNI0373 (chromosome)	NC_018630	HMPREF1038_RS05580 (zeta)	HMPREF1038_RS05585 (epsilon)	omega-epsilon-zeta/Xre(antitoxin)
+II	experimental	TA000728	-	Streptococcus pneumoniae R6 (chromosome)	NC_003098	spr1585 (yoeB)	spr1586 (yefM)	yefM-yoeB (relBE)/PHD-RelE
+II	experimental	TA000727	-	Streptococcus pneumoniae R6 (chromosome)	NC_003098	SPR_RS05505 (relE)	SPR_RS05510 (relB)	relBE/RHH-RelE
+II	experimental	TA006282	GI	Streptococcus pneumoniae R6 (chromosome)	NC_003098	SPR_RS04765 (pezT)	SPR_RS04760 (pezA)	pezAT/-
+II	experimental	TA010019	ICE	Streptococcus pneumoniae TIGR4 (chromosome)	NC_003028	SP_1051 (pezT)	SP_1050 (pezA)	pezAT/-
+II	experimental	TA000325	Prophage	Streptococcus pneumoniae TIGR4 (chromosome)	NC_003028	SP_1143 (higB)	SP_1144 (higA)	higBA (relBE)/Xre-RelE
+II	experimental	TA010168	IS/Tn	Streptococcus pneumoniae TIGR4 (chromosome)	NC_003028	SP_RS08870 (hicA)	SP_RS08865 (hicB)	hicAB/-
+II	experimental	TA000326	-	Streptococcus pneumoniae TIGR4 (chromosome)	NC_003028	SP_RS05995 (relE)	SP_RS06000 (relB)	relBE/RHH-RelE
+II	experimental	TA006079	Plasmid	Streptococcus pyogenes (plasmid pSM19035)	NC_006979	HS217_RS00065 (zeta)	HS217_RS00070 (epsilon)	omega-epsilon-zeta/-
+II	experimental	TA006024	Plasmid	Streptococcus pyogenes (plasmid pSM19035)	NC_006979	HS217_RS00045 (zeta)	HS217_RS00040 (epsilon)	omega-epsilon-zeta/-
+II	experimental	TA006280	-	Streptococcus suis 05ZYH33 (chromosome)	NC_009442	SSU05_0936 (sezT)	SSU05_0937 (sezA)	omega-epsilon-zeta/-
+II	experimental	TA006281	GI	Streptococcus suis SC84 (chromosome)	NC_012924	SSUSC84_RS09420 (yoeB)	SSUSC84_RS09425 (yefM)	yefM-yoeB (relBE)/(antitoxin)
+II	experimental	TA010159	GI	Streptococcus suis SC84 (chromosome)	NC_012924	SSUSC84_RS09435 (parE)	SSUSC84_RS09440 (parD)	parDE/-
+II	experimental	TA010157	-	Streptococcus suis SC84 (chromosome)	NC_012924	SSUSC84_RS02995 (relE)	SSUSC84_RS02990 (relB)	relBE/-
+II	experimental	TA010158	IS/Tn	Streptococcus suis SC84 (chromosome)	NC_012924	SSUSC84_RS07050 (relE)	SSUSC84_RS07055 (relB)	relBE/-
+II	experimental	TA010053	ICE IS/Tn	Streptococcus suis strain ZY05719 isolate diseased pig (chromosome)	NZ_CP007497	ZY05719_RS04600 (MNTss)	ZY05719_RS04595 (Xress)	Xre-MNT/-
+II	experimental	TA006285	ICE	Streptomyces cattleya NRRL 8057 = DSM 46488 (chromosome)	NC_017586	SCATT_RS18610 (relE)	SCATT_RS18615 (relB)	relBE/RelE(toxin)
+II	experimental	TA006122	-	Streptomyces coelicolor A3(2) (chromosome)	NC_003888	SCO2236 (yoeB)	SCO2235 (yefM)	yefM-yoeB (relBE)/PHD-RelE
+II	experimental	TA000957	-	Sulfolobus solfataricus P2 (chromosome)	NC_002754	SSO_RS15165 (vapC)	SSO_RS15170 (vapB)	vapBC/AbrB-PIN
+II	experimental	TA000956	-	Sulfolobus solfataricus P2 (chromosome)	NC_002754	SSO_RS14920 (vapC)	SSO_RS14925 (vapB)	vapBC/AbrB-PIN
+II	experimental	TA000951	IScluster/Tn	Sulfolobus solfataricus P2 (chromosome)	NC_002754	SSO_RS09575 (vapC)	SSO_RS09580 (vapB)	vapBC/AbrB-PIN
+II	experimental	TA000950	IS/Tn	Sulfolobus solfataricus P2 (chromosome)	NC_002754	SSO_RS09000 (vapC)	SSO_RS08995 (vapB)	vapBC/-
+II	experimental	TA000947	IScluster/Tn	Sulfolobus solfataricus P2 (chromosome)	NC_002754	SSO_RS08045 (vapC)	SSO_RS08040 (vapB)	vapBC/AbrB-PIN
+II	experimental	TA000945	ICE IScluster/Tn	Sulfolobus solfataricus P2 (chromosome)	NC_002754	SSO_RS07285 (vapC)	SSO_RS07290 (vapB)	vapBC/RHH-PIN
+II	experimental	TA010191	-	Synechococcus sp. CB0101 (chromosome)	NZ_CP039373	CB0101_RS08920 (relE)	CB0101_RS08915 (relB)	relBE/-
+II	experimental	TA010192	GI	Synechococcus sp. WH 8102 (chromosome)	NC_005070	TX72_RS09785 (PhoH)	TX72_RS09790 (LOG)	PhoH-LOG/-
+II	experimental	TA000962	IS/Tn	Synechocystis sp. PCC 6803 (chromosome)	NC_000911	ssl2923 (vapC)	ssl2922 (vapB)	vapBC/AbrB-PIN
+II	experimental	TA000964	-	Synechocystis sp. PCC 6803 (chromosome)	NC_000911	SGL_RS04395 (vapC)	SGL_RS04390 (vapB)	vapBC/COG2442-PIN
+II	experimental	TA000970	-	Synechocystis sp. PCC 6803 (chromosome)	NC_000911	slr1327 (vapC)	ssr2201 (vapB)	vapBC/-
+II	experimental	TA000972	-	Synechocystis sp. PCC 6803 (chromosome)	NC_000911	SGL_RS11010 (vapC)	SGL_RS11015 (vapB)	vapBC/Xre-PIN
+II	experimental	TA000977	-	Synechocystis sp. PCC 6803 (chromosome)	NC_000911	sll0525 (vapC)	ssl1004 (vapB)	vapBC/PHD-PIN
+II	experimental	TA000978	-	Synechocystis sp. PCC 6803 (chromosome)	NC_000911	SGL_RS17355 (relE)	SGL_RS17350 (relB)	relBE/-
+II	experimental	TA006113	Plasmid IS/Tn	Synechocystis sp. PCC 6803 (plasmid pSYSA_M)	NC_020287	MYO_RS17195 (vapC)	MYO_RS17200 (vapB)	vapBC/RHH-PIN
+II	experimental	TA001818	Plasmid	Synechocystis sp. PCC 6803 (Synechocystis PCC6803) (plasmid pSYSG)	NC_005231	slr8014	ssr8013	vapBC/Xre-PIN
+II	experimental	TA010070	-	Tetragenococcus halophilus NBRC 12172 (chromosome)	NC_016052	TEH_RS02455 (yafQ)	TEH_RS02450 (dinJ)	DinJ-YafQ (relBE)/-
+II	experimental	TA010055	-	Thermosipho africanus H17ap60334 Contig32 (chromosome)	NZ_AJIP01000032	H17AP60334_RS06860 (darT)	H17AP60334_RS06875 (darG)	darTG/-
+II	experimental	TA001325	GI	Thermotoga maritima MSB8 (chromosome)	NC_000853	TM_RS06645 (hicA)	TM_RS06650 (hicA)	hicAB/HicA(toxin)
+II	experimental	TA010056	-	Thermus sp. 2.9 (chromosome)	NZ_JTJB01000003	QT17_RS01925 (darT)	QT17_RS01920 (darG)	darTG/-
+II	experimental	TA010033	Plasmid IS/Tn	Thermus thermophilus HB27 (plasmid pTT27)	NC_005838	TT_RS10465 (vapC)	TT_RS10460 (vapB)	vapBC/-
+II	experimental	TA010034	Plasmid IS/Tn	Thermus thermophilus HB27 (plasmid pTT27)	NC_005838	TT_RS10840 (vapC)	TT_RS10845 (vapB)	vapBC/-
+II	experimental	TA006109	Plasmid	uncultured bacterium (plasmid pRSB225)	NC_025100	pRSB225_2 (ccdB)	pRSB225_1 (ccdA)	ccdAB/-
+II	experimental	TA006111	Plasmid IS/Tn	uncultured bacterium (plasmid pRSB225)	NC_025100	pRSB225_204 (vagD)	pRSB225_205 (vagC)	vagCD/-
+II	experimental	TA006112	Plasmid	uncultured bacterium (plasmid pRSB225)	NC_025100	pRSB225_207 (vagD)	pRSB225_208 (vagC)	vagCD/-
+II	experimental	TA006114	-	uncultured bacterium clone 93 (metagenomic gene cluster)	KF033132	Locus_27 (relE)	Locus_28 (relB)	relBE/RelE-RelE
+II	experimental	TA006021	ICE	Vibrio cholerae MJ-1236 (chromosome)	NC_012668	VCD_RS14000 (mosT)	VCD_RS14005 (mosA)	mosAT/-
+II	experimental	TA000179	IS/Tn Integron	Vibrio cholerae O1 biovar El Tor str. N16961 (chromosome II)	NC_002506	VC_RS15830 (relE)	VC_RS15835 (relB)	relBE/-
+II	experimental	TA000167	Integron	Vibrio cholerae O1 biovar El Tor str. N16961 (chromosome II)	NC_002506	VC_RS14960	VC_RS14965	relBE/RHH-COG2929
+II	experimental	TA000164	Integron	Vibrio cholerae O1 biovar El Tor str. N16961 (chromosome II)	NC_002506	VC_RS14830 (parE)	VC_RS14835 (parD)	parDE/PHD-RelE
+II	experimental	TA000168	Integron	Vibrio cholerae O1 biovar El Tor str. N16961 (chromosome II)	NC_002506	VC_RS15045 (relE)	VC_RS15050 (relB)	relBE/RHH-RelE
+II	experimental	TA000178	IS/Tn Integron	Vibrio cholerae O1 biovar El Tor str. N16961 (chromosome II)	NC_002506	VC_RS15765 (relE)	VC_RS15760 (relB)	relBE/PHD-RelE
+II	experimental	TA000177	IS/Tn Integron	Vibrio cholerae O1 biovar El Tor str. N16961 (chromosome II)	NC_002506	VC_RS15750	VC_RS15745	relBE/RHH-GNAT
+II	experimental	TA000176	IS/Tn Integron	Vibrio cholerae O1 biovar El Tor str. N16961 (chromosome II)	NC_002506	VC_RS15720	VC_RS15725	relBE/RHH-GNAT
+II	experimental	TA000175	IS/Tn Integron	Vibrio cholerae O1 biovar El Tor str. N16961 (chromosome II)	NC_002506	VC_RS15705 (relE)	VC_RS15700 (relB)	relBE/PHD-RelE
+II	experimental	TA000174	IS/Tn Integron	Vibrio cholerae O1 biovar El Tor str. N16961 (chromosome II)	NC_002506	VC_RS15650 (higB)	VC_RS15655 (higA)	higBA (relBE)/Xre-RelE
+II	experimental	TA000169	Integron	Vibrio cholerae O1 biovar El Tor str. N16961 (chromosome II)	NC_002506	VC_RS15105 (parE)	VC_RS15110 (parD)	parDE/-
+II	experimental	TA000173	Integron	Vibrio cholerae O1 biovar El Tor str. N16961 (chromosome II)	NC_002506	VC_RS15515 (relE)	VC_RS15520 (relB)	relBE/PHD-RelE
+II	experimental	TA000165	Integron	Vibrio cholerae O1 biovar El Tor str. N16961 (chromosome II)	NC_002506	VC_RS14870	VC_RS14875	relBE/RHH-GNAT
+II	experimental	TA000172	Integron	Vibrio cholerae O1 biovar El Tor str. N16961 (chromosome II)	NC_002506	VC_RS15415 (relE)	VC_RS15410 (relB)	relBE/PHD-RelE
+II	experimental	TA000171	Integron	Vibrio cholerae O1 biovar El Tor str. N16961 (chromosome II)	NC_002506	VC_RS15265 (higB)	VC_RS15270 (higA)	higBA (relBE)/Xre-RelE
+II	experimental	TA000170	Integron	Vibrio cholerae O1 biovar El Tor str. N16961 (chromosome II)	NC_002506	VC_RS15230 (parE)	VC_RS15235 (parD)	parDE/PHD-RelE
+II	experimental	TA000166	Integron	Vibrio cholerae O1 biovar El Tor str. N16961 (chromosome II)	NC_002506	VC_RS14895 (relE)	VC_RS14900 (relB)	relBE/RHH-RelE
+II	experimental	TA010030	IS/Tn Integron	Vibrio cholerae O1 biovar El Tor str. N16961 (chromosome II)	NC_002506	VC_RS15685 (doc)	VC_RS15680 (phd)	phd-doc/-
+II	experimental	TA010035	IS/Tn Integron	Vibrio cholerae O1 biovar El Tor str. N16961 (chromosome II)	NC_002506	VC_RS15810 (dhiT)	VC_RS15815 (dhiA)	DhiAT/-
+II	experimental	TA010013	-	Vibrio harveyi strain FDAARGOS_107 (chromosome)	NZ_CP014038	AL538_RS09490 (panT)	AL538_RS09495 (panA)	PanAT/-
+II	experimental	TA000705	Integron	Vibrio parahaemolyticus RIMD 2210633 (chromosome)	NC_004603	VP1843 (relE)	VP1842 (relB)	relBE/RHH-RelE
+II	experimental	TA010118	-	Xanthomonas axonopodis pv. citri str. 306 (chromosome)	NC_003919	XAC_RS20185 (EcnB)	XAC_RS20190 (EcnA)	EcnAB/-
+II	experimental	TA006288	IScluster/Tn	Xanthomonas oryzae pv. oryzicola BLS256 (chromosome)	NC_017267	XOC_RS18065 (avrRxo1)	XOC_RS18060 (arc1)	omega-epsilon-zeta/-
+II	experimental	TA010166	-	Xenorhabdus nematophila ATCC 19061 (chromosome)	NC_014228	XNC1_RS12315 (relE)	XNC1_RS12320 (relB)	relBE/-
+II	experimental	TA006023	-	Xenorhabdus nematophila ATCC 19061 (chromosome)	NC_014228	XNC1_1940 (relE)	XNC1_1941 (relB)	relBE/-
+II	experimental	TA010106	GI IS/Tn	Xenorhabdus nematophila ATCC 19061 (chromosome)	NC_014228	XNC1_RS17910 (hipA)	XNC1_RS17915 (hipB)	hipBA/-
+II	experimental	TA006120	Plasmid	Xylella fastidiosa (plasmid pXF-RIV11)	NC_014111	HS687_RS00020 (pemK)	HS687_RS00015 (pemI)	pemIK/AbrB-MazF
+II	experimental	TA000162	Prophage	Xylella fastidiosa 9a5c (chromosome)	NC_002488	XF_RS10790 (mqsR)	XF_RS10795 (mqsA)	mqsRA (relBE)/Xre-YgiU
+II	experimental	TA003484	-	Yersinia enterocolitica subsp. enterocolitica 8081 (chromosome)	NC_008800	YE2116	YE2115	mqsRA (relBE)/COG5642-COG5654
+III	experimental	TA006366	Plasmid	Bacillus thuringiensis serovar kurstaki str. HD73 (plasmid pAW63)	NC_020240	HD73_7567 (toxN)	HD73_7567a (toxI)	toxIN/-
+III	experimental	TA006372	-	Coprococcus catus GD/7 (draft genome)	NC_021009	CC1_10040 (cptN)	(cptI)	cptIN/-
+III	experimental	TA010071	-	Escherichia coli strain CFSAN026791 (chromosome)	NZ_LDDO01000030	WQ70_RS10970 (toxN)	- (toxI)	toxIN/-
+III	experimental	TA006374	-	Eubacterium rectale DSM 17629 (draft genome)	NC_021010	EUR_02830 (cptN)	(cptI)	cptIN/-
+III	experimental	TA006365	Plasmid	Lactococcus lactis (plasmid pSRQ900)	AF001314	abiQ (abiQ)	antiQ (antiQ)	abiQ-antiQ/-
+III	experimental	TA006317	Plasmid	Pectobacterium atrosepticum (plasmid pECA1039)	NC_011767	pECA1039_03b (toxN)	pECA1039_r03a (toxI)	toxIN/-
+III	experimental	TA006371	-	Photorhabdus luminescens subsp. laumondii TTO1 (chromosome)	NC_005126	PLU_RS24160 (tenpN)	(tenpI)	tenpIN/-
+III	experimental	TA006373	ICE	Ruminococcus torques L2-14 (draft genome)	NC_021015	RTO_13160 (cptN)	(cptI)	cptIN/-
+IV	experimental	TA010068	-	Acinetobacter baumannii strain ATCC 17978 (chromosome)	NZ_CP018664	AUO97_RS04255 (cptA)	AUO97_RS04260 (cptB)	cptAB/-
+IV	experimental	TA10002a	ICE	Cellulomonas marina strain NBRC 110784 sequence14 (chromosome)	NZ_BONM01000014	Cma02nite_RS09435 (faRel)	Cma02nite_RS09430 (ATfaRel)	FaRel-ATfaRel/-
+IV	experimental	TA010128	GI IS/Tn	Erwinia amylovora strain CTBT3-1 tig00000000 (chromosome)	NZ_NQJO01000001	CS942_RS16100 (yeeV)	CS942_RS16105 (yeeU)	yeeUV (cbtA-cbeA)/-
+IV	experimental	TA006368	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b2896 (cptA)	b2897 (cptB)	cptAB/-
+IV	experimental	TA010199	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b2646 (ypjF)	b2645 (yfjZ)	yfjZ-ypjF/-
+IV	experimental	TA001042	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b2005 (yeeV)	b2004 (yeeU)	yeeUV (cbtA-cbeA)/-
+IV	experimental	TA010198	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b0245 (ykfI)	b0246 (yafW)	yafW-ykfI/-
+IV	experimental	TA006320	Plasmid	Lactococcus lactis (plasmid pNP40)	NC_010901	pNP40_p19 (abiEi)	pNP40_p20 (abiEii)	abiEi-abiEii/-
+IV	experimental	TA006253	-	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv2826c (abiEi)	Rv2827c (abiEii)	abiEi-abiEii/-
+IV	experimental	TA010047	-	Mycoplasma mycoides subsp. capri str. GM12 (chromosome)	NZ_CP001668	MMCAP2_RS00810 (abiEii)	MMCAP2_RS00815 (abiEi)	abiEi-abiEii/-
+IV	experimental	TA010180	GI	Pyrococcus yayanosii CH1 (chromosome)	NC_015680	PYCH_RS07505 (PygT)	PYCH_RS07500 (PygA)	abiEi-abiEii/-
+IV	experimental	TA006031	-	Shewanella denitrificans OS217 (chromosome)	NC_007954	SDEN_RS01590 (sdenT)	SDEN_RS01585 (sdenA)	sdenTA/-
+IV	experimental	TA010045	-	Shewanella oneidensis MR-1 (chromosome)	NC_004347	SO_RS06215 (ygfX)	SO_RS06210 (ygfY)	ygfYX/-
+IV	experimental	TA006319	-	Streptococcus agalactiae 2603V/R (chromosome)	NC_004116	SAG1285 (abiEi)	SAG1284 (abiEii)	abiEi-abiEii/-
+V	experimental	TA006099	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	b4559 (ghoT)	b4128 (ghoS)	ghoTS/-
+VI	experimental	TA006367	-	Caulobacter crescentus NA1000 (chromosome)	NC_011916	CCNA_03629 (socB)	CCNA_03630 (socA)	socAB/-
+VII	experimental	TA010031	-	Aphanizomenon flos-aquae 2012/KM1/D3 spades_34_len_T:34268 (chromosome)	NZ_JSDP01000312	OA07_RS26470 (hepT)	OA07_RS26465 (mntA)	HepT-MntA/-
+VII	experimental	TA010016	IScluster/Tn	Mycobacterium tuberculosis H37Rv (chromosome)	NC_000962	Rv1045 (tglT)	Rv1044 (takA)	TglT-TakA/-
+VII	experimental	TA000660	-	Shewanella oneidensis MR-1 (chromosome)	NC_004347	SO_RS14755 (hepT)	SO_RS14750 (mntA)	HepT-MntA/HEPN-MNT
+VIII	experimental	TA010220	-	Acinetobacter sp. WCHA45 (chromosome)	NZ_CP028561	- (creT)	- (creA)	creTA/-
+VIII	experimental	TA010165	-	Escherichia coli str. K-12 substr. MG1655 (chromosome)	NC_000913	- (SdsR)	- (RyeA)	SdsR-RyeA/-
+VIII	experimental	TA010017	-	Haloarcula hispanica ATCC 33960 (chromosome)	NC_015943	(creT)	(creA)	creTA/-
+VIII	experimental	TA010221	Plasmid	Halobacterium hubeiense strain JI20-1 (plasmid pSTJ001)	NZ_LN831303	- (creT)	- (creA)	creTA/-
