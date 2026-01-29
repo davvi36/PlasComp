@@ -255,7 +255,7 @@ rm(list = ls())
 
 `%>%` <- magrittr::`%>%`
 
-stats <- readxl::read_xlsx("S1_data.xlsx", sheet =  15)
+stats <- readxl::read_xlsx("S1_data.xlsx", sheet =  4)
 
 theme_heatmap <- function() {
   ggplot2::theme(
@@ -539,7 +539,7 @@ plot_01
 ##Plot Figure 3C####
 rm(list = ls())
 
-stats <- readxl::read_xlsx("S1_data.xlsx", sheet = 16)
+stats <- readxl::read_xlsx("S1_data.xlsx", sheet = 5)
 
 format_p <- function(p) {
   ifelse(
@@ -640,7 +640,7 @@ plot_fisher
 #Figure S1####
 rm(list=ls())
 
-S_plotting <- read_xlsx('S1_data.xlsx', sheet = 7, col_types = c('text', 'text', 'text', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric'))
+S_plotting <- read_xlsx('S1_data.xlsx', sheet = 6, col_types = c('text', 'text', 'text', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric'))
 S_plotting$CRISPR_status <- factor(S_plotting$CRISPR_status)
 S_plotting$par_status <- factor(S_plotting$par_status)
 
@@ -689,8 +689,8 @@ ggplot() +
 #Figure S2####
 rm(list = ls())
 
-##read in proportional data ####
-raw <- read_xlsx('S1_data.xlsx', sheet = 4)
+##read in raw diret plating data ####
+raw <- read_xlsx('S1_data.xlsx', sheet = 7)
 raw$S_host <- factor(raw$S_host)
 raw$Bystander <- factor(raw$Bystander)
 
@@ -784,7 +784,7 @@ plasmid_sum <- group_by(plasmid_content, Bystander, host, plasmid, pKJK5_type) %
 
 
 ##read in stamp data ####
-strep <- read_xlsx('S1_data.xlsx', sheet = 5, col_types = c('text', 'numeric', 'numeric', 'numeric', 'text', 'logical', 'logical', 'logical','logical', 'logical', 'logical', 'text', 'text', 'text', 'logical', 'logical', 'logical'))
+strep <- read_xlsx('S1_data.xlsx', sheet = 8, col_types = c('text', 'numeric', 'numeric', 'numeric', 'text', 'logical', 'logical', 'logical','logical', 'logical', 'logical', 'text', 'text', 'text', 'logical', 'logical', 'logical'))
 strep$Sample <- factor(strep$Sample)
 
 
@@ -1052,7 +1052,7 @@ p
 #Figure S3####
 rm(list = ls())
 
-raw <- read_xlsx('S1_data.xlsx', sheet = 9, col_types = c('numeric', 'numeric', 'numeric', 'text', 'text', 'text', 'text', 'numeric','numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric'))
+raw <- read_xlsx('S1_data.xlsx', sheet = 10, col_types = c('numeric', 'numeric', 'numeric', 'text', 'text', 'text', 'text', 'numeric','numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric', 'numeric'))
 
 #calculate cfu/mL
 raw$LB_cfu_1 <- (raw$LB_count1 / (10^-raw$LB_dilution1)) * 200
@@ -1153,7 +1153,7 @@ b
 #save_as_docx(b, path = 'comprat_tmatrix.docx')
 
 #fit a GLM overall and test inclusion of additional variables.
-model2 <- glm(comprat ~ Plasmid_backbone*CRISPR_status*TA_status +
+model2 <- glm(comprat ~ Plasmid_backbone*CRISPR_status*TA_status,# +
                 #  Replicate + 
                 #  Position,
                 # Batch + 
@@ -1362,7 +1362,7 @@ c
 
 #Figure S4####
 rm(list = ls())
-raw <- read_xlsx('S1_data.xlsx', sheet = 8, col_types = c('text', 'numeric', 'text', 'text'))
+raw <- read_xlsx('S1_data.xlsx', sheet = 12, col_types = c('text', 'numeric', 'text', 'text'))
 
 raw$host <- factor(raw$host, levels = c('S', 'C', 'G'))
 
